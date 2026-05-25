@@ -51,10 +51,92 @@ And because it was desired, it was fought over.
 
 Once said to belong to the Amazons, it had passed from Athens to Persia, from Persia to Alexander, and at last to Rome itself.
 
-Even now, Ephesus remained a city ruled by women and desire.
+Even now, Ephesus remained a city ruled by wealth, beauty, and desire.
 
-Its patron goddess was Artemis of the many breasts, goddess of abundance, and nearly every luxury traded within the city existed for the pleasure of women.
+Its patron goddess was Artemis of the many breasts, goddess of abundance, and nearly every luxury traded within the city existed for pleasure.
 
-Persia had begun to fade beneath the fragrance of luxury.
+Persia had begun to fade beneath the fragrance of excess.
 
 Now Rome itself seemed to be sinking into the same shadow.
+
+Hesthenes continued speaking lazily as the sea breeze moved through his dark hair.
+
+"The great arena is probably still filled with the cries of dying gladiators and wild beasts. Scholars will still be arguing philosophy in the Arcadian Square. The sacred fire of Artemis still burns in the Prytaneion... and girls from the schools along Curetes Street are likely laughing together beneath the afternoon sun."
+
+At that, the young man suddenly seized upon the one name he had been waiting to hear.
+
+"Yes... Drusiana was still a child back then."
+
+Only now did Hesthenes smile.
+
+"And what do you suppose she has become after six years?"
+
+Andronicus gazed out across the sea.
+
+"Do you think she still remembers me?"
+
+"How could the daughter of Tyrannus forget the young lord of one of Ephesus' greatest families?" Hesthenes replied with a grin. "Not only Drusiana, but every unmarried woman in Ephesus likely remembers your name."
+
+Andronicus shook his head faintly, though the memory clearly warmed him.
+
+For six years he had carried Drusiana within him.
+
+Through blood-soaked battlefields.
+Through sleepless nights in Rome.
+Through triumph, ambition, and fear.
+
+Somewhere deep inside, he had already convinced himself that there could be no other woman in the world for him.
+
+Yet the shadow lingering over his expression did not disappear.
+
+Hesthenes noticed it immediately.
+
+"You still seem troubled, Dominus."
+
+The young Roman official remained silent for a long moment.
+
+Then he spoke quietly.
+
+"Tell me, Hesthenes... do you truly believe Rome will last forever?"
+
+The servant blinked.
+
+Such words were dangerous.
+
+Throughout the Empire, informants of Caesar listened everywhere.
+
+A careless sentence could destroy an entire household.
+
+Even Hesthenes instinctively lowered his voice.
+
+Rome called itself eternal.
+
+Its roads stretched across the known world. Its armies crushed nations beneath iron discipline. From Hispania to Judea, from Africa to Asia Minor, all roads bowed before the authority of Caesar.
+
+The emperors had come one after another.
+
+Augustus, who forged the Empire.
+Tiberius, who struggled to preserve it.
+Caligula, who nearly lost his mind beneath absolute power.
+Nero, who sang while Rome burned.
+
+And yet the Empire endured.
+
+Or so everyone believed.
+
+But Andronicus no longer felt certain.
+
+Rome still appeared glorious beneath the Mediterranean sun.
+
+Yet somewhere beneath its marble foundations, he sensed decay.
+
+Something unseen.
+Something creeping inward.
+
+As though an invisible wind had begun to slip quietly through the cracks of the Empire.
+
+"No wall stands forever," Hesthenes murmured carefully.
+
+Andronicus slowly nodded.
+
+"That is exactly what frightens me."
