@@ -140,3 +140,49 @@ As though an invisible wind had begun to slip quietly through the cracks of the 
 Andronicus slowly nodded.
 
 "That is exactly what frightens me."
+
+The servant studied his master in silence.
+
+This was not merely political anxiety.
+
+Something had changed within Andronicus during his years in Rome.
+
+He had entered the capital dreaming of glory.
+He returned carrying exhaustion.
+
+He had witnessed senators devour one another for power. He had seen governors sell justice for gold and noblemen drown themselves in luxury while slaves starved outside their gates.
+
+Even the temples no longer felt sacred.
+
+The priests performed their rituals.
+The crowds still offered sacrifices.
+The incense still rose toward the heavens.
+
+Yet the gods seemed strangely absent.
+
+Rome possessed wealth.
+Rome possessed power.
+Rome possessed armies beyond counting.
+
+But somewhere deep beneath its splendor, the soul of the Empire had begun to rot.
+
+A sudden gust of wind swept across the deck.
+
+The sail cracked loudly overhead.
+
+Several sailors glanced uneasily toward the darkening western horizon.
+
+The sea remained calm.
+Yet something in the air had changed.
+
+Hesthenes narrowed his eyes.
+
+"A storm?"
+
+One of the older sailors shook his head slowly.
+
+"No... not a storm."
+
+His weathered face hardened.
+
+"But the wind feels strange today."
