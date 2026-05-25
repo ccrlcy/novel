@@ -186,3 +186,75 @@ One of the older sailors shook his head slowly.
 His weathered face hardened.
 
 "But the wind feels strange today."
+
+Night descended slowly over the sea.
+
+The western sky burned crimson for a moment before surrendering to darkness.
+
+Lanterns flickered across the deck of the Vesta, casting restless shadows over ropes, sails, and weary faces.
+
+Most of the passengers had already withdrawn below deck.
+
+Only a handful of sailors remained above, speaking quietly among themselves as though unwilling to disturb the uneasy silence settling over the sea.
+
+Andronicus stood alone near the railing.
+
+Far above him, countless stars spread across the heavens.
+
+Rome claimed dominion over the earth.
+
+Yet beneath the silent order of the night sky, the greatness of the Empire suddenly felt small.
+
+Fragile.
+
+Temporary.
+
+"You should rest, Dominus."
+
+Hesthenes approached quietly.
+
+But before Andronicus could answer, another figure stepped onto the deck from the darkness below.
+
+He wore plain traveling clothes faded by years of dust and sun.
+
+Nothing about him suggested wealth or status.
+
+Yet the moment he appeared, the atmosphere around them seemed strangely calmer.
+
+The old traveler bowed his head politely.
+
+"Peace to you."
+
+His voice was soft.
+
+But something within it carried unusual steadiness.
+
+Andronicus studied him carefully.
+
+"You are awake late for an old traveler."
+
+The man smiled faintly.
+
+"Old men often sleep lightly."
+
+Hesthenes narrowed his eyes.
+
+There was nothing threatening about the stranger.
+
+Yet instinctively, he remained cautious.
+
+The traveler rested one hand against the railing and gazed quietly across the dark sea.
+
+For a time, no one spoke.
+
+Only the sound of water striking the hull echoed through the night.
+
+Then the old man murmured almost to himself:
+
+"Empires rise loudly... but they often fade in silence."
+
+Andronicus turned sharply.
+
+The traveler did not look at him.
+
+His eyes remained fixed upon the distant darkness beyond the sea.
