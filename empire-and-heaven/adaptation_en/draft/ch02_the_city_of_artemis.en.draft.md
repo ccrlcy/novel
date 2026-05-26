@@ -243,6 +243,60 @@ Lord and god.
 
 That was now how the emperor wished to be known throughout the Empire.
 
-The evening wind moved softly through the streets of Ephesus.
+Massive marble columns surrounded the temple platform.
 
-And somewhere far behind them, beyond the noise of the city and the smoke of the festival fires, the old traveler continued walking silently through the crowds.
+Torches already burned along the stairways while citizens passing beneath the terrace bowed their heads almost automatically.
+
+Some out of loyalty.
+Some out of fear.
+Most simply because everyone else did the same.
+
+Andronicus studied the enormous statue in silence.
+
+The emperor's expression was stern and absolute.
+
+A god demanding reverence from mortal men.
+
+For a brief moment, Andronicus remembered the words spoken by the old traveler aboard the ship.
+
+*Everything built by men fades eventually.*
+
+The wind moved softly through the streets.
+
+Lucius spoke carefully.
+
+"The governor strongly encourages public loyalty to the emperor cult these days. Especially after the unrest in other provinces."
+
+"Unrest?"
+
+"The Christians again," the steward answered quietly. "Some refuse to burn incense before the emperor's image."
+
+The officer riding nearby let out a dry laugh.
+
+"Fools," he muttered. "A grain of incense could save their lives. Yet they choose suffering instead."
+
+Andronicus remained silent.
+
+For reasons he could not fully explain, the words unsettled him.
+
+Not because he admired the Christians.
+
+He barely understood them.
+
+But because there was something deeply strange about men willing to die for what could not be seen.
+
+The procession moved onward once more.
+
+As they passed beneath the growing shadow of the imperial temple, Hesthenes glanced back again.
+
+Far behind the crowd, Tychicus still walked slowly through the streets of Ephesus.
+
+Alone.
+
+Unhurried.
+
+As though he carried within himself a peace untouched by either Rome or Artemis.
+
+The evening bells sounded across the city.
+
+And somewhere above the glowing marble streets of Ephesus, the first stars quietly began to appear.
