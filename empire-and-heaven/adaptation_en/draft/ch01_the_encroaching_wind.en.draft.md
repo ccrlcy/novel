@@ -326,3 +326,27 @@ Far out across the dark waters, lightning flashed silently beyond the horizon.
 For only an instant.
 
 Then darkness swallowed the sea again.
+
+The old traveler slowly turned away from the railing.
+
+"You should sleep while the sea is still calm," he said.
+
+"And if the storm comes?" Hesthenes asked.
+
+The man paused.
+
+A faint sadness touched his eyes.
+
+"Storms always come."
+
+Then he disappeared once more into the darkness below deck.
+
+For a long while, neither Andronicus nor Hesthenes spoke.
+
+Only the wind remained.
+
+Moving softly through the sails.
+
+Moving across the sea.
+
+Like something unseen drifting slowly toward the world.
