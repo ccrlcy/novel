@@ -1,120 +1,248 @@
 # Empire and Heaven (Volume I)
-## Chapter 2 — The City of Artemis
+## Chapter 2 — Strangers
 
-Morning light spread slowly across the harbor of Ephesus.
+All the passengers aboard the *Vesta* crowded onto the deck, gazing in silence at Ephesus glowing beneath the evening sun.
 
-The sea glittered beneath the rising sun as merchant ships drifted in and out of the harbor like shadows crossing molten gold.
+Someone whispered almost like a prayer.
 
-From the upper deck of the *Vesta*, Andronicus stared silently at the city emerging beyond the morning mist.
+"Ah... the jeweled city of Artemis."
 
-Ephesus.
+At the center of the harbor stood the great memorial gate, its graceful Ionic columns bathed in gold. Beyond it stretched the broad Harbor Road cutting through the heart of Ephesus toward the great theater rising beneath Mount Pion.
 
-At last.
+The immense theater spread outward like open arms, capable of holding tens of thousands beneath the sky.
 
-Even after six years, the sight of the city struck him with unexpected force.
+Even the mountain behind it glowed softly in the fading light.
 
-The white marble buildings rising along the slopes beneath Mount Pion still gleamed beneath the morning light. The harbor roads remained crowded with merchants, laborers, sailors, priests, and travelers from every corner of the Empire.
+Suddenly someone shouted:
 
-And towering above everything else stood the great Temple of Artemis.
+"Look! The goddess of Artemis is coming!"
 
-Its massive columns shone pale against the sky like the bones of some ancient god.
+Passengers leaned over one another, searching toward the harbor.
 
-"Still magnificent," Hesthenes murmured beside him.
+"Where?"
 
-Andronicus gave no answer.
+"There! From the road beside the theater!"
 
-Something about the city felt unchanged.
+At first they noticed only the crowds.
 
-Yet something else felt deeply different.
+Thousands of people flooded into the streets, carrying flowers and branches overhead like waves of color rolling through the city.
 
-Perhaps it was not Ephesus that had changed.
+"We are fortunate," someone laughed. "We arrived during the Festival of Artemis."
 
-Perhaps it was himself.
+The procession slowly advanced toward the harbor, filling the entire Harbor Road.
 
-As the ship approached the harbor, the sounds of the city slowly rose around them.
+By the time the *Vesta* lowered anchor at the docks, the festival crowds were already pouring through the great memorial gate.
 
-Merchants shouting prices.
-Wheels grinding against stone.
-Children laughing.
-Priests chanting near roadside shrines.
+People surged endlessly through the central gate and the two arched entrances beside it.
 
-The noise of civilization.
+The harbor had become a sea of noise.
 
-The noise of men desperately trying to believe their world would continue forever.
+Andronicus and Hesthenes remained aboard the ship for a while longer, watching from above.
 
-The old traveler from the night before appeared quietly near the stern of the ship.
+From the deck, the spectacle unfolded before them like a living river.
 
-The same calm expression rested upon his face.
+At last the image of Artemis appeared beneath a canopy of flowers and leaves.
 
-He seemed untouched by the restless energy surrounding the harbor.
+At the front walked the high priest dressed in white.
 
-Andronicus found himself watching the old man again.
+Behind him came the male priests guarding the goddess.
 
-"You have been to Ephesus before?" he asked.
+Men who had mutilated themselves in devotion to Artemis.
 
-The traveler nodded once.
+Behind them followed twenty-four priestesses clothed in white, women sworn to lifelong virginity.
 
-"Many years ago."
+The entire city trembled with excitement.
 
-"And now?"
+Music echoed through the harbor.
 
-The old man looked toward the city.
+Incense smoke drifted into the evening air.
 
-"Now I return because the churches are troubled."
+The goddess passed beneath the memorial gate while the crowds shouted themselves hoarse with worship.
 
-At those words, Hesthenes glanced sharply toward him.
+Hesthenes leaned against the railing.
 
-Churches.
+"And Rome believes it rules the world."
 
-The word alone was enough to invite suspicion.
+Andronicus said nothing.
 
-Throughout the Empire, rumors concerning the followers of Christus spread constantly.
+Below them, the festival surged onward.
 
-Some called them atheists because they refused to worship the Roman gods.
+Oxen prepared for sacrifice had been bound beside the harbor square.
 
-Others whispered darker accusations.
+The priests moved among them carrying ceremonial knives.
 
-That they practiced secret rites.
-That they hated mankind.
-That they welcomed the destruction of the world.
+The crowd roared.
 
-And yet the movement continued spreading.
+A moment later, the cries of the animals rose sharply into the air.
 
-Quietly.
+Blood splashed across the stones.
 
-Relentlessly.
+The priests lifted their offerings before the goddess while musicians pounded drums beside dancers whirling before the altar fires.
 
-Like roots growing beneath stone.
+Soon the smell of burning meat spread throughout the harbor.
 
-Andronicus lowered his voice.
+Smoke drifted outward toward the sea.
 
-"You are one of them?"
+"Dominus."
 
-The old traveler smiled faintly.
+Hesthenes touched Andronicus' arm.
 
-"I belong to Christ."
+A young Roman officer stood behind them offering a formal military salute.
 
-No shame.
-No hesitation.
+"Welcome home, Quaestor Marius Andronicus. By order of the governor, I have come to escort you through the city. As you can see, Ephesus is somewhat chaotic tonight."
 
-Only peace.
+Behind the officer stood Lucius, steward of the Andronicus household.
 
-For reasons he could not explain, that peace unsettled Andronicus more than open fanaticism would have.
+The older servant bowed deeply.
 
-He had seen zealots before.
+"Welcome home, my lord."
 
-Men intoxicated by ideology.
-Men hungry for revolution.
-Men willing to kill in the name of gods and kingdoms.
+For a brief moment Andronicus nearly forgot the harbor, the festival, and even Rome itself.
 
-But this old man carried none of that fire.
+Home.
 
-Only quiet certainty.
+The word alone struck him unexpectedly hard.
 
-The harbor bells rang in the distance.
+Still, with so many eyes around them, there was little he could ask.
 
-Dockworkers hurried across the stone piers as ropes were thrown from ship to shore.
+Especially not about Drusiana.
 
-The *Vesta* slowly settled against the harbor docks.
+"Very well," he said quietly. "Let us disembark."
 
-At last, they had returned to Ephesus.
+The soldiers forced a path through the crowds while the group crossed the harbor square thick with blood, smoke, and the smell of roasted meat.
+
+As they passed through the memorial gate, horses already waited on the far side.
+
+Andronicus mounted beside Lucius while Hesthenes followed on foot with the rest of the servants.
+
+Columns lined both sides of Harbor Road.
+
+Upon them stood statues of Roman heroes, philosophers, emperors, and gods gazing down upon the city.
+
+Luxury shops crowded the marble streets.
+
+Gamblers surrounded carved gaming tables built directly into the stone walkways.
+
+Laughter.
+Curses.
+The clatter of dice.
+
+The sounds of a civilization drunk on wealth.
+
+To the left stood the harbor gymnasium and bathhouses.
+
+Marble halls filled with athletes, merchants, politicians, scholars, and travelers from every province of the Empire.
+
+Rome worshiped strength.
+Rome worshiped beauty.
+Rome worshiped comfort.
+
+And yet the people themselves seemed increasingly restless.
+
+Cruel.
+
+As though luxury had not satisfied them but hollowed them instead.
+
+Andronicus rode in silence.
+
+Everything felt familiar.
+
+Yet strangely distant.
+
+Citizens whispered as his procession passed.
+
+Some recognized the young heir of the Andronicus household and waved politely.
+
+Lucius guided his horse closer.
+
+"Your mother has been waiting eagerly for your return," he said.
+
+"Is she well?"
+
+"Much better since hearing you were coming home."
+
+Ahead of them the great theater rose larger and larger against the darkening sky.
+
+Its immense stone structure seemed almost to proclaim the glory of Rome itself.
+
+Near the entrance to the Roman Agora stood colossal statues of Augustus and Vespasian upon towering marble pillars.
+
+Andronicus raised his hand in formal salute toward the emperors.
+
+"How is the city?" he asked.
+
+Lucius answered carefully.
+
+"Peaceful. The authority of Rome remains strong in Ephesus. Trade prospers. Education flourishes. The citizens are content."
+
+Walking behind them, Hesthenes hid a faint smile.
+
+He understood well enough what Rome called education.
+
+Not the pursuit of truth.
+
+Only the pursuit of success.
+
+Parents spent fortunes raising children who could escape labor and climb into the machinery of wealth, politics, finance, and power.
+
+The Empire produced skilled minds.
+
+But rarely wise ones.
+
+As they neared the theater district, Hesthenes suddenly glanced behind him.
+
+A familiar figure wandered slowly through the crowd.
+
+The old traveler from the *Vesta*.
+
+Tychicus.
+
+He moved aimlessly between the shops carrying a fish tied by string in one hand and a worn bundle over his shoulder.
+
+At times he paused to stare upward toward the evening sky as though listening to something no one else could hear.
+
+For reasons he could not explain, Hesthenes felt uneasy watching him.
+
+The old man's words from the ship still lingered in his thoughts.
+
+*There may be something worth more than the Pax Romana.*
+
+The procession continued into Curetes Street, the heart of Ephesus.
+
+Tall buildings rose on both sides while wealthy villas gleamed golden beneath the setting sun.
+
+Suddenly laughter erupted overhead.
+
+Women dressed in luxurious garments leaned from upper windows waving toward Andronicus.
+
+They were passing the famous pleasure houses of Ephesus.
+
+Perfumed courtesans smiled from flower-covered balconies while painted tiles near the entrances displayed their names and symbols.
+
+Andronicus answered politely with a raised hand.
+
+Such gestures were expected of a Roman nobleman.
+
+Then, quite suddenly, he pulled his horse to a halt.
+
+Ahead of them stood a massive new temple he did not recognize.
+
+Beside it towered a gigantic statue.
+
+"That was not here when I left," Andronicus murmured.
+
+Lucius lowered his voice.
+
+"It is the Temple of the Divine Emperor Domitian. Every citizen passing this road is expected to bow before the image of the emperor."
+
+Andronicus slowly looked upward.
+
+The stone face of Domitian stared down upon the city with cold authority.
+
+Lord and god.
+
+That was now how the emperor wished to be known throughout the Empire.
+
+The evening wind moved softly through the streets of Ephesus.
+
+And somewhere far behind them, beyond the noise of the city and the smoke of the festival fires, the old traveler continued walking silently through the crowds.
