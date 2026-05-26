@@ -300,3 +300,27 @@ As though he carried within himself a peace untouched by either Rome or Artemis.
 The evening bells sounded across the city.
 
 And somewhere above the glowing marble streets of Ephesus, the first stars quietly began to appear.
+
+Ahead of them, beyond the crowded streets and towering marble buildings, the estate of the Andronicus family slowly emerged beneath the darkening sky.
+
+Torchlight flickered along the outer walls.
+
+Servants moved busily through the courtyards preparing for the return of the household's heir.
+
+Andronicus slowed his horse.
+
+For six years he had imagined this moment.
+
+Yet now that he had returned, a strange uneasiness lingered within him.
+
+The city felt magnificent.
+
+But beneath its beauty, something unseen seemed to be trembling.
+
+As though Ephesus itself stood upon hidden cracks.
+
+Far behind them, somewhere within the crowded streets, Tychicus continued walking silently through the city.
+
+Like a man returning not merely to a place...
+
+But to a destiny.
