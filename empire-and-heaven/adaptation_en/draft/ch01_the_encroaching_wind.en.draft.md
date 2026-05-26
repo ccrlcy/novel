@@ -258,3 +258,71 @@ Andronicus turned sharply.
 The traveler did not look at him.
 
 His eyes remained fixed upon the distant darkness beyond the sea.
+
+"You speak as though Rome is already dying," Andronicus said.
+
+The old man gave a faint smile.
+
+"Everything built by men fades eventually."
+
+"Even Rome?"
+
+"Even Rome."
+
+The answer came without hesitation.
+
+Hesthenes let out a quiet breath.
+
+Only fools, rebels, or philosophers spoke so openly.
+
+Yet the stranger's voice carried neither bitterness nor fear.
+
+Only certainty.
+
+The old traveler finally turned toward them.
+
+Deep lines marked his face, but his eyes were clear.
+
+Strangely clear.
+
+"Then what remains?" Andronicus asked before he could stop himself.
+
+The traveler studied him for a long moment.
+
+"Truth," he said quietly.
+
+The sea wind moved softly through the silence that followed.
+
+"Truth remains."
+
+No one answered.
+
+Somewhere in the darkness below deck, a child began crying in its sleep.
+
+The sound faded quickly.
+
+Again the sea became still.
+
+The old man lowered his gaze.
+
+"Men build kingdoms believing they will endure forever," he said. "But fear always hides beneath their foundations."
+
+His eyes lifted again toward the distant horizon.
+
+"Only the kingdom built by God does not tremble."
+
+Andronicus felt something tighten within his chest.
+
+He did not understand why those words unsettled him.
+
+Perhaps because part of him already knew they were true.
+
+The wind passed over the deck once more.
+
+This time colder than before.
+
+Far out across the dark waters, lightning flashed silently beyond the horizon.
+
+For only an instant.
+
+Then darkness swallowed the sea again.
