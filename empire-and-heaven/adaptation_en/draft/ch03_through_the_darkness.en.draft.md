@@ -261,3 +261,17 @@ Tychicus picked up the fish he had dropped earlier.
 "Then lead the way, brothers."
 
 Together they turned away from the theater and disappeared into the growing darkness beyond the city lights.
+
+As they descended the marble streets of Ephesus, the sounds of celebration echoed endlessly around them.
+
+Yet beneath the noise of the city, another current seemed to move unseen.
+
+Quiet.
+Hidden.
+Persistent.
+
+The kingdom of Rome filled the streets with power.
+
+But another kingdom moved silently through homes, prisons, harbors, and forgotten corners of the Empire.
+
+And though few yet understood it, the collision between those two kingdoms had already begun.
