@@ -1,279 +1,403 @@
-# Empire and Heaven (Volume I)
-## Chapter 1 — The Encroaching Wind
+---
+title: "The Wind That Seeps In"
+volume: "I"
+chapter: 1
+source: "empire-and-heaven/chapters/상_01_스며드는_바람.md"
+translation_type: "faithful literary translation"
+---
 
-The Mediterranean glittered beneath the afternoon sun.
+# Empire and Heaven (I)
 
-The merchant ship *Vesta* had passed between Sparta and Crete and entered the Aegean, her white wake stretching long behind her. Spring wind filled the raised sails. Seabirds drifted over the open water, pale against the blue.
+## Chapter 1. The Wind That Seeps In
 
-"Fine weather, Dominus."
+Upon the Mediterranean, blue as glass, the sun was still pouring down its bright rays. The merchant vessel Vesta had just passed between Sparta and the island of Crete and was entering the Aegean Sea, drawing a white tail behind her. Her lifted sails were filled with the swelling scent of spring, and it was a noon so clear that even the wings of the seabirds cutting now and then through the air seemed about to carry away the deep blue of the sky.
 
-The young man addressed by the title lifted his eyes briefly to the clear sky, then lowered them again.
+"It is fine weather, dominus."
 
-Since entering the Aegean, the ship had begun passing more sails. Between Asia Minor and the broken fingers of the Peloponnesus, the sea was never empty for long. Grain ships, merchant vessels, fishing boats, and provincial transports crossed the waters like threads drawn through the loom of the Empire.
+The young man, addressed as dominus, master, by a man of imposing build, glanced up at the cloudless sky and then lowered his head again, sinking into some thought.
 
-"Six years," the young man murmured.
+Since the ship had entered the Aegean, a fair number of vessels with white sails had come into view. The Aegean, where the peninsula of Asia Minor and the Hellenic Peloponnese seemed to stretch out fingers as if to clasp one another, was the very road and crossroads of trade between East and West, and so the coming and going of merchant ships never ceased there.
 
-The servant beside him glanced at his master's face. His shoulders were broad, his expression quick and alert, and his voice carried the easy boldness of a man who knew exactly how far he might tease without giving offense.
+"...So six years have already passed."
 
-"Yes," Hesthenes said. "Six years since we left Ephesus. You were seventeen then, and reckless enough to believe Rome had been waiting for you."
+The powerfully built man stole a look at his young master's profile and mischievously tugged at the first thread of conversation. Sure enough, the young master heard the words and raised his head. "Yes, Hesthenes, it has already been six years since we left Ephesus. At that time I was a foolish boy of seventeen."
 
-A faint smile touched the young man's face.
+A sudden life began to move in the young man's eyes. Surely he was groping for some glittering memories from about the time he was seventeen. But this time the man named Hesthenes, rather than attending to his young master's interest, turned aside and feigned another concern.
 
-For an instant he seemed to see something beyond the water: a street, a courtyard, a girl standing beneath the light of Ephesus.
+"Indeed. It was exactly six years ago that you bought me in the slave market at the harbor of Ephesus, my lord...!"
 
-Hesthenes saw the memory forming and, with deliberate mischief, stepped across it.
+As though he knew Hesthenes's mischievous habit, the young man reached again toward the thread of memory he had found, unwilling to let it slip from his grasp.
 
-"It was six years ago as well that you bought me in the slave market by the harbor. A wise purchase, as history has proved."
+"How might Ephesus have changed by now...?"
 
-The young man ignored him.
+Though he knew that his master's interest was not really in Ephesus, Hesthenes muttered with perfect composure.
 
-"I wonder how much Ephesus has changed."
+"It will be much the same... At the great theater on the slope of Mount Pion, a tragedy of Euripides will be performed, and in the Tetragonos market, merchants gathered from every nation of the world will be beside themselves buying and selling all manner of goods, from foodstuffs, spices, and cloth to gold and silver, jewels, and pottery."
 
-Hesthenes looked out across the sea. He knew well enough that his master's thoughts were not fixed upon the city.
+As he said, Ephesus was the center of world trade. Roads crossing from Asia followed the Caicus, Hermus, and Meander rivers, which flowed down the peninsula of Asia Minor into the Aegean. Among them, in particular, the Persian Royal Road and the great road from Sardis had Ephesus, situated at the mouth of the Cayster River, as their terminus.
 
-"Very little, I expect. Euripides is probably still being declaimed beneath Mount Pion. Merchants in the Tetragonos market are still cheating one another over spices, dyed cloth, glassware, silverwork, and little gods small enough to fit in a traveler's pouch."
+Thus not only goods but people from everywhere poured into Ephesus. Merchants, money changers, warehouse keepers, and transporters came, of course, but so did lawyers to settle disputes, scribes, scholars, and artists. Countless people were streaming into Ephesus.
 
-The young man said nothing.
+And so in this wealthy trading port of Ephesus there was nothing lacking. There were theaters, stadiums, concert halls, gymnasia, and enormous baths for the citizens' pleasures; there were libraries and schools for the learned classes; and even inns and brothels for travelers. Everything was provided.
 
-Ephesus did not change easily.
+For that reason, it was the wish of every woman in the world to visit Ephesus at least once. A woman such as Cleopatra, queen of Egypt, who married Antonius after the death of Caesar, the Roman consul, is said to have often stopped in Ephesus with her husband Antonius to buy jewels and cosmetics.
 
-Roads from the deep interior of Asia followed the river valleys westward until trade, language, and ambition all poured into the harbor at the mouth of the Cayster. Goods came there, and with them came men: merchants and money changers, warehouse keepers and scribes, advocates, students, entertainers, physicians, sailors, priests, slaves, and women who had learned to survive among all of them.
+Because Ephesus was an object of longing among women, when war broke out it naturally became an object to be seized. This land, said originally to have belonged to the country of Amazon women, had become a city whose master changed countless times after it was occupied by Androcles, prince of Athens: from Athens to Persia, from Persia again to Alexander, and then again to Rome.
 
-The city seemed to lack nothing.
+Therefore Ephesus was still a city of women. The goddess who ruled Ephesus was Artemis, goddess of fertility with twenty-four breasts, and it was no exaggeration to say that all the luxury goods traded in Ephesus were for women alone. Persia, and now Rome, the greatest empire in history, had begun to fall into shadow amid the scent of women's perfume.
 
-It had theaters, stadiums, music halls, bathhouses, schools, libraries, temples, inns, and pleasure houses bright enough to hide the weariness beneath them. Wealth moved through Ephesus like blood through a living body.
+Hesthenes continued muttering.
 
-The world desired the city.
+"In the great arena, gladiators and beasts will still be bleeding and dying. In the great square of the Arcadiane, scholars will still be discussing life and philosophy... In the Prytaneion, the sacred fire of Artemis will still be burning... and from the girls' school on Crete Street, maidens with braided hair will come chattering out...."
 
-And what the world desired, men fought to possess.
+At precisely that point, the young man snatched at the tail of Hesthenes's words.
 
-Ephesus had passed from hand to hand through the centuries: Greek, Persian, Macedonian, Roman. Yet beneath every ruler, the city had remained itself—beautiful, restless, and devoted to abundance.
+"Yes. Drusiana was a little innocent attending that girls' school then."
 
-Artemis watched over it, many-breasted goddess of fertility and increase. Her temple drew pilgrims, traders, craftsmen, thieves, and rulers alike. Her name sanctified commerce. Her image made desire appear holy.
+Having at last placed the thread of memory in his master's hand, Hesthenes smiled faintly and gazed at the islands floating at ease. Yet his ears were still open toward the next words that would come from his master.
 
-Persia had once grown soft beneath the fragrance of luxury.
+"How might Drusiana have changed by now...?"
 
-Rome, Andronicus had begun to fear, was breathing that same perfume.
+Suddenly the shadow of a seabird passed through the servant's eyes.
 
-Hesthenes continued with careless fluency, the wind moving through his dark hair.
+"...Six years is truly no short time. You yourself have changed so much, my lord..."
 
-"The arena will still be roaring. The philosophers will still be arguing in the square. The sacred fire of Artemis will still be burning in the Prytaneion. And the girls from the schools along Curetes Street will still be laughing as though the world exists only to admire them."
+"Have I changed so much?"
 
-At last the young man looked at him.
+"Think of it. When you entered the cavalry, were you not only a boy of seventeen? Now you are a young officer who rendered distinguished service in suppressing that revolt of Saturninus, and you are Quaestor Marius Andronicus, the first in the history of the Roman Empire to become quaestor at the age of twenty-three. If, before long, you pass through the offices of senator and magistrate, you may become the youngest consul this country has ever had. Young master, you are now rising as the morning star of Rome."
 
-"Drusiana was still a child when I left."
+When Hesthenes had spoken so far, his young master, Quaestor Andronicus, suddenly put on a tense expression and looked about.
 
-Hesthenes smiled.
+"Hesthenes, you must not forget that His Majesty the Emperor's informers are spread through every corner of the Roman Empire."
 
-"Children have a way of becoming women while men are away conquering provinces."
+Then Hesthenes too, realizing perhaps that his voice had been too loud, shrank his neck and looked around. But the young master still seemed to wish to linger near the girls' school on Crete Street.
 
-Andronicus turned back to the sea.
+"Then Drusiana must have changed a great deal too, mustn't she?"
 
-"Do you think she remembers me?"
+"My lord, people always live between two possibilities." "What do you mean...?"
 
-"How could the daughter of Tyrannus forget Marius Andronicus?" Hesthenes said. "The whole city remembers your name. Every unmarried girl in Ephesus has likely improved you in memory beyond what nature achieved."
+"Miss Drusiana will now have become one of the two." "-?"
 
-Andronicus gave a quiet breath that was almost a laugh.
+"Either a witch with a very wicked temper..."
 
-For six years he had carried Drusiana with him.
+Watching his master's face twist, Hesthenes continued.
 
-Through military roads and Roman halls.
-Through nights of victory that felt strangely empty.
-Through ambition, fatigue, and fear.
+"...or a maiden so pretty and gentle that she would sway even in the wind."
 
-He had never spoken of it with the seriousness it deserved, not even to himself. Yet somewhere below thought, the decision had already been made. If he returned to Ephesus, he would return to her.
+The master's eyes again looked toward the blue sky as if dreaming.
 
-Still, the shadow in his face remained.
+"Would Drusiana still remember me...?"
 
-Hesthenes noticed.
+"How could she forget young Master Andronicus of the foremost house in Ephesus? Not only Drusiana, but all the maidens of Ephesus will be unable to forget you. When you arrive in Ephesus now... the whole city will be filled with the sound of maidens weeping."
 
-"You are troubled, Dominus."
+"For they will have had Rome's finest bridegroom stolen from them by Miss Drusiana."
 
-Andronicus rested both hands on the rail.
+"Indeed, it cannot be helped that you are of Hellenic blood, rich in artistic sensibility." "Of course, my lord. Had Alexander not died young, Hellas would have ruled Rome, and perhaps I would have loved the young man named Marius Andronicus whom I had bought as a slave so greatly that I would have set him free as a freedman."
 
-For a while, only the sea answered.
+Yet even Hesthenes's pointed jest could no longer make Andronicus cheerful. With a face a little more shadowed, he was looking out to sea.
 
-Then he said, very quietly, "Do you believe Rome will last forever?"
+"Hesthenes, what are you saying? The Roman Empire is a nation founded by the will of the gods..."
 
-The servant's expression changed.
+In fact, Romans believed so. After Caesar's death, Octavianus, Caesar's adopted son, who overcame Antonius at the Battle of Actium, in effect completed the Roman Empire. From Africa and Palestine to Asia Minor, the Peloponnese, Gaul, and Hispania, the territory of the Roman Empire enclosed the Mediterranean like a folding screen. Rome, said to have been founded on the seven hills by the Tiber by the orphan Romulus, who had been suckled by a wolf and who killed his younger brother Remus, had at last come to rule the whole world; and the Senate bestowed upon Octavianus the title Augustus, the venerable one.
 
-Some questions were not safe at sea, on land, in wine, or even in sleep.
+Not only that, Augustus was exalted as both father of Rome and god, and the eighth month of the calendar was given his name. Roman highways stretched toward the whole world, and wherever the roads reached, Roman-style cities arose, with stadiums, temples, aqueducts, and baths.
 
-Caesar's informers lived by careless sentences. A word spoken lightly could stain a household for generations.
+Rome's power and political force subdued nations wherever they went and led every war to victory. The historian Livius said that, just as water flows to lower ground, Rome was destined to win.
 
-Hesthenes lowered his voice.
+Hesthenes gave a small shrug of his shoulders and looked at his master.
 
-"Rome is careful to say so."
+"That is true, my lord. Rome is the eternal sun of the Mediterranean, if only that anxiety did not hover between your brows."
 
-The answer almost made Andronicus smile.
+Even so, Andronicus's complexion still showed no sign of brightening. Hesthenes again deftly turned the end of the conversation.
 
-Rome called itself eternal. Its roads crossed the known world. Its armies moved with iron discipline from Hispania to Judea, from Africa to Asia. Its laws entered cities before its soldiers left them. Its tax collectors remembered what its gods forgot.
+"This voyage is rather impressive, after all. Is not the Vesta now passing Athens and heading for Ephesus of Artemis?"
 
-Augustus had forged the Empire.
-Tiberius had guarded it.
-Caligula had mocked it with madness.
-Nero had sung while its capital burned.
+Originally, Vesta was the name of the goddess of the hearth, Rome's guardian deity, and the goddess of Athens was Athena, who governed wisdom. The guardian deity of Ephesus was Artemis, goddess of abundance, with those twenty-four breasts. This symbolic expression of Hesthenes was speaking of the history of the Roman Empire itself.
 
-And still Rome endured.
+The Romans, for all their enterprise and vigor, were originally poor in imagination, and the genealogy of their gods was unsatisfactory. So they admitted and embraced the gods of every province. Embracing the gods also had a great effect in ruling the provinces without undue resistance. For that reason, in the provinces of Rome, gods of every kind were displayed like goods in a department store and were worshiped. Yet Rome was being drawn less toward the wisdom of Athens than toward the abundance and pleasure of Artemis. It was as though the Vesta herself were now passing Athens by and going on to Ephesus. Andronicus too nodded, as if he understood the meaning of what Hesthenes was saying. Hesthenes's rhetorical speech continued.
 
-Everyone believed it would continue to endure.
+"Now the whole Mediterranean has become a temple of goddesses. Thanks to that, Jupiter of Rome and Zeus of Greece, joined together against their will, are becoming exhausted from debauchery among the goddesses. It seems the Roman Empire must now join hands again with the kingdom of Amazon women. Well... from the beginning Rome did start with women."
 
-Andronicus had once believed it too.
+Hesthenes's point referred to the Sabine War. The first war Romulus waged after founding Rome was a war to abduct women from the Sabines.
 
-Now he was no longer certain.
+Even if it was not only because of that, it was true that the Rome of the present was suffering on account of women.
 
-The Empire still shone beneath the sun. Its marble, its armies, its aqueducts, its courts, its festivals—everything declared permanence. Yet in Rome he had seen men sell justice with clean hands. He had watched senators smile at one another like guests at a funeral whose inheritance was not yet divided. He had seen noble houses lit all night for feasts while slaves slept hungry in the alleys behind them.
+Many goods were imported from the provinces, and the apartments that stood crowded everywhere had running water and baths. Men grew busier day by day in order to trade and negotiate with the wide world, while women grew ever more comfortable and idle. Women's fashions changed almost from one day to the next, and Roman husbands devoted themselves to satisfying women's endless desires.
 
-Even the temples had begun to feel hollow.
+By day the women spent their time watching cruel combats in the amphitheater, and by night they stayed awake at parties that went on without end. When they did return home, they harried their husbands to bring them better clothes and better jewels, and dissatisfaction with their husbands' ability at last began to drive Roman women out into the square of transgression. Physicians made great fortunes by performing abortions, and the Tiber was filled with the bodies of infants thrown away.
 
-The priests still offered sacrifice.
-The incense still rose.
-The crowds still bowed.
+It was for just that reason that Andronicus, rejecting maidens of Rome's noble houses as marriage prospects, had fixed his mind on Drusiana of his hometown. Of course, the women of Ephesus were no exception. But Drusiana was a maiden of the house of Tyrannus, a family of scholars well known even in Ephesus. During the six years after he left Ephesus, Andronicus had never for a moment forgotten that sturdy little girl, whether on blood-reeking battlefields or in the busy days of Rome. And before he knew it, he had decided that the only woman in the world who could marry him was Drusiana.
 
-But the gods seemed strangely absent.
+"But, my lord, do not worry too much. Rome's strong army rules over the whole world, and Rome's capable political and administrative power lacks nothing in governing the great empire. Besides, has Rome not now gained a new hero named Marius Andronicus?"
 
-"No wall stands forever," Hesthenes said at last.
+Andronicus slowly shook his head.
 
-Andronicus nodded slowly.
+"No... As you say, somewhere a hole is opening in Rome's iron wall. ...Somehow I have a suspicious feeling... as though an ominous wind were seeping in."
 
-"That is what frightens me."
+"But, my lord, can a hero like Augustus appear every time? Several times already incompetent emperors have wielded the imperium, yet Rome's organization and ability have amply borne it, have they not?"
 
-The sail cracked above them.
+Imperium meant the supreme governing power of the emperor. Tiberius, who inherited the imperium of Augustus, died exhausted, barely able even to imitate his adoptive father Augustus in handling the Senate and the army. Caligula of the next generation was insane, and Claudius, raised up after Caligula was assassinated, was a weakling played with among women. In the end he was poisoned by Agrippina, his fourth wife, and the one who succeeded him was Nero, the son of Agrippina by her former husband. And that megalomaniac artist set fire to Rome, sang at his villa in Antium, and at last, receiving the Senate's vote of no confidence, killed himself.
 
-A sudden gust crossed the deck, sharp enough to turn the sailors' heads. The sea remained calm, but the air had shifted. An older sailor near the mast looked toward the western horizon and tightened his jaw.
+After Nero's death, Rome absurdly became a lawless world. The aged Galba, who became emperor with the support of the Praetorian Guard, was finally killed by the very troops that supported him. When the throne then went to Otho, governor of Hispania, Vitellius, commander of the Rhine region, called himself emperor and marched on Rome. Otho, defeated at last, killed himself, and the Senate had no choice but to approve Vitellius as emperor.
 
-"A storm?" Hesthenes asked.
+There was a terrifying man who watched that crisis and finally rose to challenge Rome's imperium. He was Flavius Vespasianus, commander of the region of Judea, a man said to make even a crying child fall silent. The fearsome Vespasianus was the second son born to the tax official Flavius Sabinus and Vespasia Polla, daughter of a commander in the Nursia region. Because of parents who were never on good terms, he was raised by his grandmother Tertulla; and because of his father, who was inferior in lineage to his mother's side, he had harbored ambition for advancement from childhood. Like Andronicus, he too entered the cavalry from an early age, served on the frontiers in Judea and Egypt, became quaestor at twenty-five, aedile at twenty-nine, and at last, at thirty, praetor, that is, magistrate.
 
-The sailor shook his head.
+As though trying to comfort his master, still sunk in anxiety, Hesthenes softened his tone.
 
-"Not yet."
+"Rome's organizing power could govern the empire even when there were occasionally incompetent leaders. Think of it. The great ruler Vespasianus appeared fifty-five years after Augustus died, did he not? No, Vespasianus had already been born in the fifth year after Emperor Tiberius came to the throne. Be at ease. Rome will never be shaken. Now Marius Andronicus, quaestor from Ephesus, is rising again in Rome."
 
-He kept looking at the horizon.
+"Hesthenes... are you comparing me now to Emperor Vespasianus?"
 
-"But the wind is wrong."
+"I am. Moreover, my lord, you have become quaestor two years earlier than Vespasianus."
 
-By evening, the sun had sunk into red fire.
+"Hesthenes... I..."
 
-The western sky burned for a moment, then yielded to darkness. Lanterns were lit along the deck. Their flames moved uneasily over rope, sailcloth, and tired faces.
+He was slowly shaking his head. It meant that he felt he could never follow after that terrifying man Vespasianus.
 
-Most passengers had gone below. A few sailors remained above, speaking in low voices. The ship moved on through the darkening sea.
+Above all, the first danger that came upon Vespasianus was the murderous intent of the ruling class, which feared his ability. The first person who planned to kill him was Agrippina, Nero's mother. But he skillfully escaped her blade-like net, and rather caused the breach between mother and son to widen, at last producing the tragedy in which the son killed the mother.
 
-Andronicus stood alone near the rail.
+Not only Agrippina but also her son Nero was a maniac for killing. He killed not only his own mother, but also his half-brother Britannicus, his wife Octavia, and Seneca, who had been his tutor and collaborator. As if it were sport, he seized and killed the great figures of politics one after another. Yet even in the midst of that, Vespasianus cleverly passed from one frontier post to another, avoiding Nero's gaze.
 
-Above him the stars had come out in their thousands.
+To explain that fearsome character of Vespasianus, one had first to mention his thorough method of trampling used in war. Having taken part in provincial wars from boyhood as a cavalryman, he had learned better than anyone the surest method of domination. Occupied places in the provinces had the nature of lifting their heads again like grass once the occupying army had passed; to subdue them completely, precisely such a method of trampling was necessary.
 
-Rome claimed the earth. Under that silent order of heaven, the claim felt suddenly small.
+His thorough victories in the expeditions to Gaul and Britannia, carried out in his early thirties, showed this. Wherever his army went, thorough plunder and destruction followed; women were violated, and men and children were massacred. The most complete of all was the trampling of Jerusalem in Judea. The revolt in Judea, though born of the union between tenacious national resistance and religious forces, suggested that a problem had arisen in the governing power of the Roman administration. While problematic rulers such as Caligula, Claudius, and Nero created chaos in the central government, the governors of the provinces inevitably became corrupt as well. As administrative power was paralyzed here and there and plunder and exploitation were practiced, resistance forces waiting for their moment rose up like bamboo shoots after rain.
 
-Fragile.
+But Vespasianus, who had once been stationed in Galilee during his cavalry days, knew well the seriousness of affairs in this region.
 
-Temporary.
+Of all the provinces in the Roman Empire, none was more difficult to govern than Judea. Unlike the people of other provinces, they had strict rules of life, and their religion was inflexible and exclusive. No governor could rule them without recognizing the scriptures they possessed. Of course, the Roman government, which had embraced the gods of every nation, also recognized the religion of the Jews and left alive the religious judicial authority of the Sanhedrin, the institution of their religious leaders.
 
-"You should rest, Dominus."
+Yet for some reason the Jews were not easy for Rome. They would not allow a statue of the emperor to be set up in their city, and on their Sabbath no one would agree to work. Vespasianus felt that difficulty from the beginning. Even when he had been stationed there, the Jews were stubbornly waiting for what they called the Messiah... a savior. It was the dream that a savior would arise from among the Jewish people, avenge the Jews' grievances, and come to rule the world.
 
-Hesthenes had returned without sound.
+Even when Vespasianus was there, several persons appeared in Judea who were pointed to as messiahs. One of them wore strange garments of leather and wandered in the wilderness. He was arrested and killed after denouncing the misconduct of Herod Antipas, who had been appointed king of the province of Judea at that time.
 
-Before Andronicus could answer, another figure emerged from the shadow of the stairway.
+Even after John, that strange man of the wilderness, died, another figure was spoken of among the people in Judea. He was a young man from Nazareth in Galilee, named Jesus. He had worked as a carpenter in his hometown, and according to what Vespasianus later heard, he had rather been accused as a heretic by the religious leaders of the Jews and executed by Pontius Pilate, governor of Judea.
 
-He was an old traveler in plain clothes, the cloth faded by sun, salt, and long roads. Nothing in him suggested rank. Nothing asked to be noticed.
+In any case, from Vespasianus's point of view, the Jews' dream of the appearance of this Messiah was superstitious, but it was likely to remain a headache for the Roman government for a long time. Even if the Jews, unable to wait any longer for the Messiah, had raised a revolt, what mattered more was to destroy their vain expectation of a Messiah.
 
-Yet when he stepped onto the deck, the air seemed to grow quieter around him.
+Therefore, when he was serving as consul in Africa and received Nero's order to suppress the revolt, he came to think that he must take this opportunity to uproot Judea's source of trouble.
 
-He inclined his head.
+The forces Vespasianus mobilized to suppress the revolt of the small province of Judea amounted to a great army of as many as three legions, sixty thousand men.
 
-"Peace to you."
+Vespasianus never hurried. Beginning at the borders of Galilee, he began to trample the cities of Judea one by one as thoroughly as if picking out lice.
 
-His voice was soft, but steady.
+Setting his troops in motion from Antioch in Syria, Vespasianus joined his eldest son Titus at Ptolemais, passed through Sepphoris, attacked Jotapata, and captured the incompetent Jewish commander Josephus. Then he continued south. He seized Tiberias, Gamala, Javia, and Mount Tabor in turn, trampled the regions of Gadara and Samaria, ravaged Caesarea and Jamnia, and attacked Joppa, the headquarters of the rebels, cutting off the sea route. Even then he did not go straight into Jerusalem, but detoured again through the region of Perea, passed Emmaus, and trampled Jericho.
 
-Andronicus studied him.
+It was like a beast of prey that has captured a small animal and, instead of tearing it apart at once, slowly tightens its grip around its neck. Searching all Judea as if picking out lice, Vespasianus dragged out no less than three years until he surrounded Jerusalem to cut off its final breath. A truly terrible thing was happening in Jerusalem. People became hungry ghosts, cutting and eating one another's flesh and roasting their own children. Like a spectator enjoying a gladiatorial contest in an amphitheater, Vespasianus was chewing upon the Jews and had just come to bite through their windpipe when Nero died. When news of the struggle for power came from Rome, Vespasianus handed the precious spectacle over to his son Titus and returned to Rome.
 
-"You wake late for an old man."
+On August 28, in the month of Augustus, the year after Vespasianus ascended the throne, on the ninth day of Abib by the Jewish calendar, General Titus, commander of the army suppressing Judea, wrote a report to his father, Emperor Vespasianus.
 
-The traveler smiled faintly.
+To His Majesty Caesar Vespasianus Augustus:
 
-"Old men often sleep lightly."
+Your humble servant, Commander Titus Flavius Sabinus Vespasianus, has today completed all of Your Majesty's commands. The temple of Jerusalem has been destroyed without a trace, and within the city the number of people dead from hunger is approximately one million one hundred thousand; the putrid water of corpses flows like rivers. Able-bodied men have been selected, bound in chains, and sent to the labor yards of Egypt; approximately ninety thousand survivors under the age of seventeen have been sent to slave markets in various places to be sold. As for those who seemed useless, all were put to death by the sword of Rome. Now the only living beings in Jerusalem are the loyal soldiers of the Roman Empire...
 
-Hesthenes watched him with narrowed eyes. There was no threat in the stranger's posture. That did not make him harmless.
+Josephus, the Jewish commander captured by Vespasianus at the fortress of Jotapata in Galilee, was taken all the way to Rome and received generous treatment from him. While writing the history of Judea's destruction near the emperor, he confessed as follows.
 
-The old man set one hand on the rail and looked out over the black water.
+...Your Majesty, I misunderstood the scriptures of the Jews and thought that the Messiah prophesied there must appear only from among the Jews. Now I realize how narrow the vision of the Jews, including myself, was when compared with Your Majesty's vast view of the world. In the end, the liberation of the Jews is not to oppose the Roman Empire, but to become free citizens of Rome; and I am convinced that the Messiah, the savior prophesied in the Jewish scriptures, is none other than Your Majesty Emperor Vespasianus, who guides the whole world in peace...
 
-No one spoke for a time.
+Andronicus was heavily shaking his head. "Hesthenes, I... I do not think I can ever become Vespasianus." "Do you mean his governing power, or his cold cruelty?" He still shook his head.
 
-The ship breathed with the sea.
+"Both."
 
-Then the old traveler said, almost as if speaking to the darkness itself, "Empires rise loudly. They often fade in silence."
+Vespasianus, advancing into Italy, encountered Vitellius, who called himself emperor, at the city of Cremona. Vespasianus's army swept over Cremona in an instant, and forty thousand soldiers carried out plunder, rape, and slaughter throughout the city. In his usual way, the citizens of Cremona, even the children, were annihilated. Vitellius was killed in this war, and the terrible rumor of Cremona's plunder flew into Rome. The Senate, turning pale, immediately bestowed upon him the title of emperor, and he held, in addition to the office of emperor, the offices of censor and consul.
 
-Andronicus turned toward him.
+The first achievement Vespasianus performed after rising to the emperor's seat was to turn the interest of the empire's citizens away from the ruler and toward the Roman Empire itself.
 
-The old man did not look back. His gaze remained fixed beyond the waves.
+He formed an enormous civil-service organization and reorganized the army. At the same time, he granted Roman citizenship to all provincials serving in the Roman army. He also drew many men of talent from municipalities and provinces into the Senate, restored the Senate's authority, and built on the site of the temple of Janus a vast structure symbolizing world peace, the Temple of Peace. He also recovered all lands illegally occupied by private persons, increased the number of noble families from two hundred to one thousand, and carried out large-scale construction works throughout the world, employing the jobless.
 
-"You speak as though Rome is already dying," Andronicus said.
+The Senate again added to him the office of pontifex maximus and gave him the honorific title Father Consul, and at last, just as the Jewish historian Josephus confessed, he was exalted as the god who guarded the peace of the world. Yet Vespasianus's speeches were always modest. He asked Roman citizens not to honor the ruler, but to honor the Roman Empire.
 
-"Everything men build fades."
+This guardian god of peace, while recuperating in his hometown in the Sabine region after contracting a slight fever, suddenly suffered a mysterious poisoning. Rumors spread widely that his eldest son Titus, who had waited until the age of forty to become emperor, had poisoned his father.
 
-"Even Rome?"
+In that way Vespasianus died after ten years on the throne, and exactly two months after Titus ascended the imperial seat, on August 24, a great event in history finally occurred. The eruption of Mount Vesuvius caused the enormous disaster in which the great city of Pompeii was buried whole under volcanic ash. Perhaps because this event greatly shocked Titus, who had been a capable soldier, he changed into an entirely different person. He devoted himself to relief for the poor spread throughout the empire and to medical care for the sick, abolished rule by informers, and pardoned political prisoners, striving to govern well. But when the following year came, a great fire broke out in Rome, and Titus, while exerting himself to aid the victims, suddenly died of an unknown illness.
 
-"Even Rome."
+Thus the emperor who succeeded Titus was the present Domitianus, twelve years younger than Titus. By nature Domitianus was an ordinary man, neither as cold as his father Vespasianus nor as capable as Titus. Hidden under the shadow of the great Vespasianus and the tremendous popularity of Titus, he could hardly win popularity for himself.
 
-The answer came without bitterness and without fear.
+Domitianus became increasingly suspicious. The delatores, informers, who had disappeared under Titus, began to act again, and senators were frequently arrested and imprisoned on charges of treason.
 
-Hesthenes let out a slow breath. Only fools, rebels, and philosophers spoke so plainly. This man sounded like none of them.
+Moreover, Rome's economic situation, which seemed to have improved somewhat because of the employment expansion of Vespasianus's time, began to worsen again. Whenever provincial officials who had taken great sums through plunder and exploitation in the provinces returned home, they bought up fields and orchards. Farms became larger and larger, and peasants who had sold their land flowed into the cities with only vague expectations. Such poor people swarmed in every city. War slaves captured in various places increased beyond control, even though many were consumed in the arenas or housed on great estates. And so Rome, in addition to the nobles and citizens who composed it, was forming yet another power made up of these poor, the slaves, and the wanderers who had flowed in from every nation.
 
-At last the traveler turned.
+"Hesthenes, if you ever think it uncomfortable to be with me, tell me at any time. If you wish, I will free you immediately."
 
-His face was deeply lined, but his eyes were clear—strangely clear, as though the years had taken everything from him except sight.
+"A gracious word, my lord. But with your income you should still be able to keep twenty slaves easily. Are you already thinking of reducing the household? It seems you mean to become a miser even before marriage..."
 
-"Then what remains?" Andronicus asked.
+Though he knew well that Andronicus's finances were not strained, he said it because his sarcastic tone had appeared again. In fact, although Andronicus was still unmarried, besides Hesthenes the slave, he had as attendants one steward, three secretaries, one personal physician, two accountants, two coachmen, two laborers, and four maids, sixteen people in all. Moreover, because this journey also carried a special command from the emperor, four imperial guards were accompanying him. Of course, those guards had both the duty of protecting Quaestor Andronicus and the duty of serving as the emperor's informers.
 
-He had not meant to ask it.
+"Hesthenes, I am saying I would free you not because of money, but to prevent a second Spartacus."
 
-The old man considered him in silence.
+Spartacus was the name of the gladiator who had led a slave revolt with seventy thousand slaves during the Republic. Spartacus's rebel army was suppressed by the government forces of Consul Crassus, and along the road from Rome to Capua stood six thousand crosses on which captured slaves had been executed.
 
-"Truth," he said.
+"My lord, at least this Hesthenes is less foolish than gladiators and the like. Even a child three feet tall knows that the Roman Empire cannot be beaten down with swords. Take courage. How could the young quaestor of the great Roman Empire be frightened by the likes of slaves?"
 
-The wind moved across the deck.
+"Hesthenes, if you had been born in Rome, you might have become a great ruler." "Not at all. I dislike standing in front by nature. Instead, I am now raising Rome's new ruler. In any case, my lord, why not leave your worries about the Roman Empire, guarded by the three goddesses Vesta, Athena, and Artemis, to the gods and dream instead the sweet dream of newlywed life?"
 
-"Truth remains."
+"I think you are right. At the moment I do not seem to be in a position to discuss affairs of state with a foolish slave."
 
-No one answered.
+"That is so. Now it is April, when the chorus of the gods can be heard. Dream of the beautiful Miss Drusiana."
 
-Somewhere below, a child cried once in sleep and fell silent again.
+"Did Apollinius serve properly as matchmaker...?"
 
-The old traveler lowered his eyes.
+Andronicus had sent his steward to Ephesus ahead of him and told his mother that he wished to marry Drusiana, the third daughter of Drusianus, adding the opinion that, if necessary, it would be good to put forward Teacher Apollinius as matchmaker. He had not yet received notice of consent from that family.
 
-"Men build kingdoms because they are afraid to die. They call them eternal because they fear what will happen if they are not."
+In fact, as Hesthenes said, he was from the foremost family in Ephesus, and everyone pointed to him as a promising young man. Naturally, he believed the house of Tyrannus would consent. Moreover, if Apollinius, a great scholar of promise even within the empire, came forward as matchmaker, at least in Ephesus there would be no one to refuse.
 
-He looked again toward the dark horizon.
+"...If Miss Drusiana is an ambitious maiden, she will not accept the proposal."
 
-"Only the kingdom built by God does not tremble."
+"What do you mean?"
 
-Something tightened in Andronicus's chest.
+"If she rejects Quaestor Marius Andronicus, who will one day rule the Roman Empire, she will surely remain in history."
 
-He did not understand the old man's words. Not fully. Yet they unsettled him more than accusation would have done.
+"I told you to beware the emperor's delatores."
 
-Perhaps because they did not sound like accusation.
+"A slave's instinct for self-preservation is sharp by nature. The only one eavesdropping on us now is that seabird."
 
-They sounded like fact.
+Indeed, a seabird was flying across the air.
 
-The wind crossed the deck again, colder this time.
+"His Majesty Emperor Domitianus has not yet placed the family of seabirds under his rule."
 
-Far out over the black water, lightning flashed without thunder. For an instant the sea showed itself in silver ridges. Then the darkness closed over it.
+"What are you saying? The emperor's information net can ensnare even flying birds."
 
-The old traveler stepped back from the rail.
+"And yet the heir of the house of Andronicus is slipping out like this, is he not?"
 
-"Sleep while the sea is calm," he said.
+Hesthenes, as expected, had seen straight through his master's intention.
 
-"And if the storm comes?" Hesthenes asked.
+When Andronicus became quaestor at the youngest age in history, Emperor Domitianus had proposed that he marry a maiden from the emperor's family. At that moment, cold sweat had run down Andronicus's back. To receive a suggestion of marriage with the emperor's kin meant that he had been marked as a dangerous man to that extent. In fact, tyrants throughout history had first bound or removed, one after another, those nearest to themselves.
 
-The man paused.
+Without even knowing how, he had politely declined the emperor's proposal by saying that he had a betrothed maiden in his hometown. Andronicus himself was surprised that such a clever device had come to him. At any rate, when he told of his intention to marry a maiden of Ephesus, the emperor's expression immediately relaxed. The emperor must surely have judged that this young leopard, whom he had thought an object of caution, was unexpectedly a country fellow.
 
-A sadness, faint and old, passed through his eyes.
+For any ambitious young man would naturally have had to form a connection with a noble house of Rome.
 
-"Storms always come."
+"I am not slipping out. I am being driven away."
 
-Then he returned to the darkness below.
+Hesthenes shook his head slowly from side to side.
 
-For a long while Andronicus and Hesthenes remained where they were.
+"As expected, my lord, you are an ambitious man one move higher. To think you deny it even knowing this Hesthenes's keen eye..."
 
-Neither spoke.
+"What am I denying?"
 
-Only the wind moved through the sails, across the sea, and toward the world ahead.
+"It would be proper courtesy toward you for me to pretend not to know. But in any case, my lord, you are the very image of the great ruler Emperor Vespasianus." "I am like Vespasianus...?"
+
+"Yes. Vespasianus continued to wander on the frontiers through the successive misrule after Caligula. Thus he was able to escape the claws of Agrippina and Nero. Furthermore..."
+
+"Furthermore...?"
+
+"Yes. Domitilla, who married Vespasianus, was certainly not from a noble house."
+
+In that way, three Domitillas were recorded in the history of the Roman Empire. The first was Domitilla, wife of Vespasianus; another was Domitilla, wife of Domitianus; and the third was Flavia Domitilla, daughter of Titus and niece of Domitianus.
+
+"Hesthenes, I am not trying to marry Drusiana as a means of self-protection. If she heard such a thing, I would immediately be branded an ungentlemanly man."
+
+"That is so, my lord. This is precisely proof that the gods are protecting you. You simply mean to seek the memories of childhood and marry that young lady, but as a result you have come to have a fate similar to Emperor Vespasianus."
+
+"But you must remember that the house of Tyrannus is not a family to be ignored." "Of course. The future is more important than the past. Domitilla became a goddess later, after all."
+
+There was also a reason of its own why Domitilla became a goddess. Domitianus not only had an inferiority complex regarding his ability and qualities; he also had doubts about his lineage. It was because of the very fact that there was a twelve-year difference in age between him and his elder brother. No one put it into words, but he felt as if everyone were whispering about this matter. He thought of himself as less brilliant than his brother, far more indecisive, and inferior, and he thought that brothers born of the same parents could not be so different. And if he was a child born not of Domitilla but of some other woman, he judged that this would emerge as a grave problem threatening his position.
+
+In this way Domitianus began to command the people of the Roman Empire to worship the emperor. His father Vespasianus had cried out that they should honor the Roman Empire rather than the ruler, but now Domitianus demanded that they worship him. He commanded all the peoples of the empire to call him dominus et deus, that is, lord and god. In every city temples of Domitianus were built and his gigantic statues erected, and all the people had to bow before the idol of the great god Domitianus. Not only that, he exalted his mother Domitilla as a goddess in order to prove that he was unquestionably her child, and even changed his wife's name to Domitilla, asserting the legitimacy of that bloodline.
+
+Andronicus could only nod, admiring the wisdom of his servant. Most of the Hellenes he had met were such people, thoughtful, wise, and rich in sensibility. Yet in the end even Hellas had fallen under Rome's rule. Stronger than philosophy or wisdom were Rome's courage and power.
+
+"Hesthenes, I am not seeking a goddess. I am seeking a wise bride."
+
+"But... might you not be making too great a wager, my lord?"
+
+"A wager...?"
+
+"What you remember, young master, is only Miss Drusiana's childhood face. If that young lady has become snub-nosed and pockmarked, do you still intend to marry her?"
+
+"If, as you say, this marriage is the will of the gods, there will be no need for such worry." "Well, I suppose there is no need to worry. Emperor Claudius too died at the hand of Agrippina, his fourth wife...."
+
+"Are you again taking the emperor's story into your mouth?"
+
+"Do not worry. My sixth sense and my mouth are safely connected by a device..."
+
+Hesthenes, who had been speaking so loudly, suddenly closed his mouth, and it was no pretense. Andronicus raised his head and saw, behind Hesthenes, a suspicious old man leaning against the gunwale and looking out to sea.
+
+Andronicus slowly moved his steps toward the old man. As if he did not feel him approaching, the old man was simply looking at the sea. Andronicus gave a dry cough.
+
+"In which direction are you traveling, elder?"
+
+Only then did the old man turn his head and look this way. "Ah... do you mean me?"
+
+"Yes. You seemed very lonely, and so I spoke to you... Are you also on your way to Ephesus?"
+
+Then the old man looked Andronicus over for a moment and cautiously opened his mouth.
+
+"Yes... I am on my way to Ephesus."
+
+"Is Ephesus your home?"
+
+"...?"
+
+He seemed even more suspicious and hesitated to answer. Andronicus then introduced himself, as if he finally understood.
+
+"I have been quite rude. My name is Marius Andronicus, and I am originally from Ephesus."
+
+The old man's eyes softened a little, and he was nodding. "I thought you an extraordinary gentleman; you are indeed the heir of the foremost house in Ephesus. The one who became quaestor before the legal age for the first time in history..."
+
+Unexpectedly, he knew a good deal about Andronicus himself. "How do you know me, elder?"
+
+"In truth, I too am a man of Ephesus. ...It has been a long time since I left Ephesus, but your house is so famous that I remember it. Besides, Quaestor, you are a person spoken of even in Rome..."
+
+Andronicus raised his shoulders with an embarrassed expression. Though he kept trying to hide himself, it seemed the mouths of Romans would not leave him alone. Like a front-runner in a chariot race who had gone too far ahead, he felt fear. He continued to probe the old man's identity.
+
+"How long has it been since you left Ephesus?"
+
+"Let me see..."
+
+For a while, the past years flowed through the old man's gaze as he looked out over the sea. Blinking, he said,
+
+"It has been so long that my memory is dim... but it was just before the great fire of Rome in Emperor Nero's time, so I think more than thirty years have already passed."
+
+"Ah... Then this is truly a return home after a long time. After that, did you remain in Rome all along?"
+
+"Not at all. I wandered about quite a number of places. A man becomes a traveler simply by leaving his home. Ah... I have not told you my name. I am called Tychicus. In Greek it means chance. Perhaps because of my name, I have had many chance meetings. Meeting Quaestor Andronicus like this today, again on a traveler's road, seems to be one of those things..."
+
+Only then did the look of suspicion leave Andronicus's face. Somehow it did not seem that the old man named Tychicus had approached in order to overhear his conversation with Hesthenes. Perhaps it was because of the romantic meaning his name carried, and because of the lonely figure in which the wrinkles of more than thirty years of wandering were deeply folded. Like an old tree standing in wind and weather, his whole body seemed filled with a great peace.
+
+"How was it, traveling through the world like that?"
+
+"The world changes according to the circumstances of the one who sees it. To a man like you, Quaestor, living in youth and ambition, the world will feel like a great stage filled with things worth possessing; to a man like me, who has lived a weary life, it is only a tent where one rests for a while and then goes on."
+
+Then Hesthenes, who had been standing behind and watching them, stepped between the two men.
+
+"If it has been thirty years since you left Ephesus... is there anyone, perhaps a relative, living there now?"
+
+Tychicus shook his head.
+
+"Probably not. I only vaguely thought that some friends from old days might remain, and so I am trying to visit my hometown once."
+
+"Then are all your family in Rome?"
+
+Again he shook his head.
+
+"I have no family either. I am simply an unencumbered bachelor like this."
+
+"Then... from the beginning, without ever marrying..."
+
+Again the years that had passed moved through Tychicus's eyes.
+
+"I did have a wife. But I had a strange wandering sickness and always left my wife behind while I roamed. How could she have endured such a man...?"
+
+Andronicus did not wish to touch his painful place any further and gave Hesthenes a look to stop. Of course, Andronicus knew his servant's state of mind well. Having grown up an orphan from birth, whenever Hesthenes met an older Hellene, he would probe this way and that, wondering whether he might perhaps meet someone of his blood. Andronicus took up the topic again.
+
+"Elder... what do you think of Rome?"
+
+"?"
+
+Tychicus seemed to be tasting the contents of the question in his mind, as if it were hard to grasp at once.
+
+"My servant and I were speaking of such things a little while ago... Romulus, who founded Rome, said that Rome's foundation was the will of the gods. Now Rome rules the world, and Rome's administrative power manages the Pax Romana, that is, the peace of Rome. Since you have traveled many places, I ask you... what is your perception of the Pax Romana?"
+
+"Are you asking that as a quaestor of Rome, or is it a personal question?"
+
+"Of course, this is neither the Senatus, the Senate, nor the Comitia Centuriata, the assembly of the people, nor the fetiales, the priestly college. It is a personal question. Do you feel Rome's pressure even in such a question?"
+
+"...I do. Originally the name Rome means, in the Hellenic tongue, the power of a beast. Rome's power is mighty, Rome's patriotism is fervent, and Rome's administrative force is meticulous, so no one can raise an objection to the Pax Romana. Individuals in Rome must constantly push themselves into the Roman Empire. That is why I hesitated when you asked my perception of Rome, Quaestor."
+
+"Are you satisfied under the shadow of the Pax Romana, elder? Do you think that satisfaction will continue forever?"
+
+"Again you ask something difficult. But I am now a man who has lived as much as he needs to live, so I think I can answer your question honestly, Quaestor... Rome is strong and great. No one can break that power. But..." "But...?"
+
+"Does the Pax Romana truly resolve everything for people? How are you now, Quaestor? Do you not perhaps desire some dim longing, something that is by no means included in the Pax Romana? If people... come to desire something they would exchange even the whole Pax Romana to obtain... then the Roman Empire will become a scarecrow armed only with its shell."
+
+A light of doubt passed through Andronicus's eyes. "Could such a thing exist? What would it be?" Old Tychicus closed his mouth. In his eyes, the blue Mediterranean began to gather full.
