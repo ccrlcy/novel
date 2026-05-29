@@ -1,348 +1,455 @@
-# Empire and Heaven (Volume I)
-## Chapter 4 — The One Who Gains and the One Who Loses
+---
+title: "The One Who Gains and the One Who Loses"
+volume: "I"
+chapter: 4
+---
 
-Andronicus drew his horse to a halt when he saw light still burning inside the school of Tyrannus.
+# Empire and Heaven (I)
 
-By that hour the students should have been gone. Even if a few scholars had lingered over scrolls and argument, the festival of Artemis had already emptied half the city into the streets. No school in Ephesus should have sounded so alive at night.
+## Chapter 4. The One Who Gains and the One Who Loses
 
-He dismounted and handed the reins to Hesthenes.
+Seeing that a light was still burning in the school of Tyrannus, Andronicus tilted his head and dismounted from his horse. Judging by the hour, the students' time of study should already have ended, and even if people had remained, they would all have gone out into the streets to take part in the festival of Artemis.
 
-The school stood along the road, two stories of pale stone and shadowed arches. Beyond the marble entrance lay a modest garden, its fountain catching the lamplight in brief flashes. Yellow narthex flowers shone near the water.
+The school had been built as a two-story structure along the roadside, and once one entered through the beautiful arched marble gate, one passed through a small garden and came into the inner building.
 
-Andronicus stepped through the arch and stopped.
+(?)
 
-Children's voices drifted from the inner hall.
+As he entered the arched gate, Andronicus listened to the voices of children coming from the direction of the school, and to a woman's voice that could be heard now and then mingled among them. He slowly moved his steps toward the sound. A savory smell of food was seeping out. He entered the gallery and peered inside through the open window.
 
-They were not the polished voices of students reciting Homer. They were small, rough, hungry voices, rising and falling over the sound of bowls, feet, and quiet laughter. A woman's voice moved among them, warm and steady.
+Several dozens of children were receiving food from a woman. All the children were wearing tattered rags, and they were filthy in appearance. Andronicus instinctively frowned. Even the great Roman Empire, which ruled the whole world, could do nothing about the poverty that multiplied like germs in every city. However much it relieved them, the poor and the beggars pouring out of every alley were a shameful wound that covered Rome's glory. And so Rome's nobles had not only the habit of frowning whenever they saw beggars, but also the habit of quickly turning their heads away and ignoring them.
 
-The smell of food reached him.
+But Andronicus could not ignore it. It was because the woman distributing food to those filthy children seemed somehow familiar. After watching the movement inside for a little longer, he finally moved his feet toward the entrance of the school. And he took one step inward. The woman's voice was heard again.
 
-He moved along the colonnade and looked through an open window.
+"Now... everyone has received some, haven't you? Then let us pray to God, who has given us this food. Now, who shall pray on behalf of us today?"
 
-Inside, dozens of children sat on benches and the floor. Their clothing was torn. Their hair was tangled. Some had the hollow cheeks of those who had learned hunger too early. Others clutched bread with both hands as if someone might still take it away.
+Then a boy sitting at the very front sprang to his feet. His clothing was comparatively clean, and his eyes were shining like morning stars.
 
-Andronicus frowned before he could prevent it.
+"Then today our good brother Gaius will pray. Everyone, put your hands together at your breast and close your eyes."
 
-Rome ruled the world, yet every city bred poverty like mold in its hidden corners. Grain distributions, public games, patronage, temple alms—none of it ended the slow multiplication of beggars. The poor remained the wound beneath imperial marble.
+The children who had been chattering became quiet all at once. The boy named Gaius prayed in a clear voice.
 
-Roman nobles learned not to look at them too long.
+"God our Father, who loves us, thank you for giving us our daily bread again today. Please guide us so that, after eating this food and growing in health, we may become fine people who live with the truth and know how to love our neighbors. We pray in the name of our Lord Jesus Christ."
 
-Andronicus might have turned away as other men did.
+Then all the children answered at once,
 
-But then he saw the woman serving them.
+"Amen."
 
-She moved among the children with a basket in one arm, bending often, speaking softly, correcting one child, smiling at another, touching a fevered forehead with the back of her hand. Her stola was plain. Loose strands of hair clung to her brow. Sweat glistened along her nose.
+After finishing the prayer and opening their eyes, the children were just beginning to eat when they saw Andronicus standing inside the door, and all of them stopped moving. "Come now, eat. What are you looking at?"
 
-Still, he knew her.
+Saying this, the woman followed the children's gaze and turned her head, and her eyes suddenly grew wide.
 
-Or rather, some part of him knew her before his mind dared speak the name.
+Though she was wearing a shabby stola, and though the hair that had fallen loose covered her forehead, the bridge of her nose beaded with tiny drops of sweat and her bright eyes were no different from the old days. Andronicus, somewhat tense, swallowed dryly and opened his mouth in a slightly hoarse voice.
 
-Drusiana.
+"Drusiana, do you recognize me? I am Marius Andronicus."
 
-She set the basket down and clapped her hands lightly.
+Only then did Drusiana smile at the corners of her mouth and nod. "I recognized you at first sight. You are still handsome, and you look gallant."
 
-"Everyone has received something? Good. Then before we eat, let us thank God. Who will pray for us tonight?"
+She looked herself over anew and spoke as if embarrassed.
 
-A boy in the front stood at once. His clothes were cleaner than the others, and his eyes were bright, almost fierce.
+"If I had known you would come like this, I could have dressed a little more prettily...."
 
-"Gaius will pray," Drusiana said. "Hands together. Eyes closed."
+"Not at all. Drusiana is beautiful at all times."
 
-The room quieted.
+Suddenly feeling that all the children were watching the two of them, Drusiana turned back to them.
 
-The boy bowed his head.
+"Hurry and eat. When you have finished your meal, put the dishes together in one place as you always do...."
 
-"Father who loves us, thank you for giving us our daily bread. Help us grow strong, live with truth, and love our neighbors. In the name of our Lord Jesus Christ. Amen."
+After finishing her instruction to the children, she guided Andronicus outside. Around the fountain in the garden, yellow narthex flowers were shining.
 
-"Amen," the children answered.
+"It has been a long time since you returned home, has it not? I have heard much news of you through people coming from Rome."
 
-Then they opened their eyes.
+"I am truly glad to see you. Because we met when we were so young, I was worried that when we first met again, words might fail us."
 
-A few saw Andronicus standing in the doorway and froze with food still in their hands.
+"Young Master Andronicus was very well-mannered even when you were a child. I remember that when you came across young women in the street, your face would turn red."
 
-Drusiana followed their gaze.
+"Was I like that?"
 
-Her eyes widened.
+"Of course. Young Master, you were always a subject of conversation among us schoolgirls."
 
-For a moment the years between them disappeared and returned all at once.
+"Drusiana, the first time we danced together... it was the night of the festival of Artemis, was it not?"
 
-Andronicus stepped inside.
+"I remember. At that time all the boys and girls of Ephesus wore masks and danced at the wharf."
 
-"Drusiana," he said, his voice lower than he intended. "Do you remember me? I am Marius Andronicus."
+"At that time we danced for quite a long while without even knowing who each other was."
 
-She looked at him, then smiled.
+Drusiana smiled gently and looked up at Andronicus. "In truth... I recognized you from the beginning."
 
-It was not the smile he had carried with him through six years. That memory had belonged to a girl in festival light. This smile belonged to a woman who had learned sorrow and chosen gentleness anyway.
+"How did you know me...?"
 
-"I knew you at once," she said. "You are still handsome, and even more imposing than the boy who left Ephesus."
+"I could already recognize you just by your way of walking. There is something like that.
 
-Then she glanced down at herself and laughed softly, almost embarrassed.
+How did you come here? If this is an official visit, shall I guide you inside?"
 
-"Had I known you were coming, I might have tried to look less like a kitchen servant."
+Then Andronicus looked at Drusiana with some tension.
 
-"No," Andronicus said. "You are beautiful as you are."
+"Before going inside, there is something I want to say first."
 
-The children stared openly.
+"...?"
 
-Drusiana turned back to them.
+"Forgive me for asking so directly, but... I asked Teacher Apollonius to convey a proposal of marriage to Miss Drusiana."
 
-"Eat before the food cools. When you finish, leave the bowls together as usual. Gaius, help the younger ones."
+Drusiana quietly nodded.
 
-The bright-eyed boy nodded solemnly, still watching Andronicus as if measuring him.
+"Before I meet your parents, I want to hear your own thoughts first."
 
-Drusiana led Andronicus out into the garden.
+"Why... Young Master Andronicus..."
 
-The air outside was cooler. From the streets beyond the school wall came the distant noise of festival music, but the garden itself seemed protected by the sound of water. Lamplight trembled across the fountain. The narthex flowers glowed yellow in the dusk.
+"Drusiana, when we met at the festival of Artemis, you simply called my name Marius. Even now, I would rather hear that. 'Young Master Andronicus' is too long."
 
-For a while neither spoke.
+"Marius, in Rome there must have been many beautiful and cultivated maidens, so why..."
 
-Andronicus had rehearsed many beginnings on the road from Rome. None of them remained useful now.
+"If I confess the truth... during the six years since I left Ephesus, I have never once forgotten you. I have never thought of anyone but Drusiana as the woman who might marry me. And... even now I am hoping that you thought of me at least half as much as I thought of you...."
 
-Drusiana broke the silence first.
+"Marius."
 
-"You have been away a long time. We have heard of you through travelers from Rome. A young officer, a quaestor before others thought it possible, the rising hope of your family."
+Drusiana brushed back the hair falling over her forehead with her fingers and looked at her suitor with affectionate eyes.
 
-"And I have heard very little of you," he said. "That was my misfortune."
+"Probably every maiden in Ephesus imagined Marius as a bridegroom at least once. Especially in my case... perhaps I thought of Marius many times, enough to be ashamed. But..."
 
-She lowered her eyes briefly.
+"But...?"
 
-"Ephesus did not seem far when we were children. Rome has made it farther, I think."
+"Marius, you are a man in whom all the citizens of Ephesus place their hopes... and a young official needed by the Roman Empire. Somehow... I feel that Marius has gone very far from me."
 
-"I was afraid," he said, "that when I saw you again we would have nothing to say to one another. We were so young when I left."
+"That is not so. If you wish it, I can throw away all such offices. Drusiana... if only you permit it, there is nothing that can hinder our marriage. Drusiana...."
 
-"You were very solemn even then," she said. "The girls used to speak of you because you blushed whenever one of us met you in the street."
+Andronicus took one step closer and seized Drusiana's left hand in his right.
 
-He smiled despite himself.
+"Drusiana, tell me that you will marry me. If you do that, tonight I shall become a victor greater than if I had triumphed in any war."
 
-"Did I?"
+"Marius...."
 
-"Often. And very seriously."
+She gently withdrew her hand from Andronicus's hot grasp and opened her mouth.
 
-The memory warmed the air between them.
+"Have you still not met Teacher Apollonius?"
 
-"Do you remember the night of the Artemis festival?" he asked. "The children wore masks by the harbor, and we danced without knowing each other's names."
+"I have already met him at His Excellency the governor's residence."
 
-Drusiana looked at him.
+"Did he say nothing about matters concerning me?"
 
-"I knew your name."
+"You mean... the matter of Drusiana's faith?"
 
-"You knew?"
+"You heard, then?"
 
-"I knew your walk."
+"Drusiana, as you know, the Roman Empire tolerates all the religions of every nation in the world. Whatever faith you hold by yourself, I shall not mind."
 
-For the first time that evening, Andronicus saw the girl he remembered. Then she lowered her gaze again, and the woman returned.
+"But Marius... the Roman Empire now regards the faith of Christ as a dangerous and unlawful religion and is persecuting the Christiani. Marius, is there any need for you to throw yourself willingly into such danger?"
 
-"Why have you come here, Marius? Is this an official visit? If so, I should bring you inside and find my father."
+"Drusiana, that is..."
 
-The name struck him gently.
+"I know. You were going to say that the Roman government persecutes the Christiani for another reason, were you not?"
 
-Marius.
+"That is so. As far as I know, there seems to be no special problem with your faith in Christ. And yet the strange thing is... whenever a national problem begins to arise, the Christiani are made to bear the blame. It was so in the fire of Rome during the reign of Emperor Nero last time.... Even now, the people being arrested in Rome are plainly being detained for other reasons, and yet under the charge of being Christiani."
 
-Not Dominus. Not Quaestor. Not lord. Marius.
+"That is exactly it. Marius... the Christiani may lighten another person's burden, but they do not become another person's burden. However much I may have a heart that wishes to marry you... I do not want to become your burden by doing so."
 
-"Before I speak with your parents," he said, "I wished to speak with you. Forgive me if I am too direct. I asked Apollonius to approach your family on my behalf. I have come to ask you to become my wife."
+Andronicus was again thinking of the consul Flavius Clemens, who had recently been imprisoned. In a situation where Clemens, the husband of Flavia Domitilla, the emperor's niece, and himself a consul, had been arrested on suspicion of being a Christianus, for Andronicus to marry a maiden who was a Christianus was exactly like choosing to live embracing a volcano. But he clenched his molars and said,
 
-Drusiana stood very still.
+"Drusiana, I am not shameless enough to marry a woman who is not in my heart because I fear danger. I am still young, and there is too long a future left before me for me to live bending my back. Drusiana, understand my heart. At this moment I need nothing except Drusiana. If, in order to marry you, I must cast something away, I will cast away whatever I have without stint. Is that not the spirit and elegance of a young man?"
 
-The fountain continued its small, patient sound.
+"Marius, you..."
 
-"Why?" she asked.
+Andronicus again extended his right hand and took her left hand. Then, putting strength into that hand, he began to draw her little by little toward him. Her shining eyes, and her red, fragrant lips, were coming closer and closer to Andronicus's face.
 
-The simplicity of the question left him nowhere to hide.
+"Marius... you are truly trying to begin a dangerous thing."
 
-"Because I have not forgotten you," he said. "Not once in six years. I went to Rome. I entered the cavalry. I stood in halls where men measured one another like knives. I received honors men said should have taken longer. Yet whenever I thought of returning to Ephesus, I thought first of you."
+"Drusiana, a man's life begins in danger by nature, and grows within it."
 
-He stopped, aware of his own urgency.
+"If you marry me... could you have a Christianus-style wedding?
 
-Then more quietly, "I have never imagined another woman beside me."
+"Could you receive the bread and wine of Christ in the Eucharisteo, and receive the prayer of blessing from the leader of the church...?"
 
-Drusiana turned toward the fountain.
+"... Do you mean the Apostle John?"
 
-Light moved over her face.
+"How did you know?"
 
-"Every girl in Ephesus once imagined marrying Marius Andronicus," she said. "You were handsome, noble, and kind enough not to know how much people admired you."
+"Drusiana... if you wish it, I will do anything."
 
-"That is not an answer."
+Just as their lips were about to meet, scattering sparks, a young man's voice suddenly flew in from the direction of the gate.
 
-"No."
+"I admire your courage, Quaestor Andronicus."
 
-A faint sadness entered her voice.
+In that instant, Andronicus's face tightened with tension and turned toward the gate. A pale shape in the darkness was slowly approaching.
 
-"It is not."
+"Who are you, you rude fellow who eavesdrops on another person's conversation?"
 
-Andronicus waited.
+"Ha ha ha... why are you so startled? Did you think one of the emperor's delatores had appeared?"
 
-She looked toward the hall where the children had begun eating again. Their voices had softened now, filled with food and safety.
+Andronicus released Drusiana's hand, turned toward the young man, and took a wary posture. Drusiana, looking at the young man who was approaching, brought her hand to her mouth.
 
-"My life is different from what you remember," she said. "These children are part of it. The poor are part of it. The brothers and sisters who gather in fear and hope are part of it. I cannot pretend to belong only to my father's house anymore."
+"04...."
 
-"You are speaking of the Christians."
+Then the young man again turned toward Drusiana and said,
 
-She did not flinch.
+"I am sorry to have broken the secret atmosphere, Drusiana. But I too thought that now I must settle the matter, and so I could not help stepping forward."
 
-"Yes."
+"Callimachus...."
 
-"I know enough to know the danger."
+Then Andronicus also repeated the name after her.
 
-"Then you know very little," she said gently. "Danger is not the first thing."
+"Callimachus? ... If my memory is correct, perhaps you are the one who was raised in this house..."
 
-"What is first?"
+"That is so. I was born an orphan and was brought up by this house of Tyrannus."
 
-"Love."
+"Then we seem to be in a position where we ought to exchange courteous greetings."
 
-The word was quiet. It did not sound sentimental in her mouth. It sounded like discipline.
+"If we are already in a position of knowing each other, I think we may omit the greetings. Only, for my part, there is one thing I want to ask Quaestor Andronicus."
 
-Andronicus looked back toward the room of children.
+"...?"
 
-"Rome also feeds the poor."
+Callimachus had now come close enough for his face to be visible even in the darkness. "Though it was not my intention, I happened to hear the conversation between you two. Can you truly marry a Christianus?"
 
-"Rome feeds crowds to keep cities from burning. Christ teaches us to see persons."
+"That... does not seem to be something that concerns you."
 
-The words were not sharp, but they struck him.
+"There is a reason it concerns me. For I, like you, intend to propose marriage to Miss Drusiana...."
 
-He looked at her closely.
+Drusiana, not knowing what to do, was covering her face with both hands. "Ah, that is unexpected. I had thought only that you were like a brother to Miss Drusiana...."
 
-"You have changed."
+"Since it has come to this, as we cannot marry the same woman, it seems one side must yield."
 
-"So have you."
+"That will be your side, then."
 
-"I have become what Rome required of me."
+"It would be good if that were so... but it seems there will be a problem on your side...."
 
-"And I have become what mercy required of me."
+"A problem?"
 
-Silence settled again.
+"That is so. From what I heard a little while ago, you said you would receive the bread and wine in the Eucharisteo and receive an apostle's blessing at the wedding. Do you know what that means?"
 
-For the first time, Andronicus felt that the distance between them was not measured by Rome and Ephesus, nor by six years, nor by rank. It was a center of gravity. His world pulled toward honor, office, name, and permanence. Hers had moved toward something quieter, less visible, and somehow more immovable.
+"?"
 
-Yet he did not retreat.
+"It means that you yourself will become a Christianus. Can you openly say before God and before people that you believe in God the Father Almighty, and that you believe in his only Son Jesus Christ, and that you have become a Christianus?"
 
-"If you marry me," he said, "I will not ask you to abandon these children."
+"If you cannot do that, you cannot become Drusiana's bridegroom."
 
-She studied him.
+When Andronicus could not answer at once, Callimachus turned back to Drusiana.
 
-"You may not ask it today."
+"Drusiana... even if you go through only a formal procedure and marry this man, the will of God will not stop there, and in the end you will have to make this man a Christianus. But this man cannot answer now. Do you think this is God's will? Drusiana, I cannot possibly understand your thinking. Surely you have not been dazzled by the silk clothes and gold and silver jewels of a noble house? Surely you are not being tempted by a fine life in Rome?"
 
-"I give my word."
+"Callimachus, I, I..."
 
-"Marius, Rome asks many things through men who do not believe they are asking them."
+"If you go away, what will you do with the pitiful orphans of Ephesus, and what will you do with the orphan Gaius, whom you cherished so much? Surely you cannot say that you will take him to Rome and raise him as a dignified noble. Drusiana, the Apostle John always taught us not to be dazzled by what is visible. What are you looking at now? God, or the power of Rome?"
 
-He felt irritation rise, then mastered it.
+"Callimachus, I can understand that you say such things to me. But... at a time like this, a woman's heart... truly, no one but the person herself can understand it."
 
-"You speak as though I am Rome itself."
+Now she was hiding her face with both hands and simply weeping. Callimachus took one more step toward her.
 
-"No," she said. "That is why I am still listening."
+"Drusiana, I am sorry. Truly, I did not want to hurt your heart. But a person may, because of a momentary emotion, fall onto a path from which one can never turn back. Drusiana, I am doing this not only because of a desire to possess you. I am doing it because I am anxious. I..."
 
-The answer held him.
+Callimachus took a deep breath for a moment as he looked at the petals of the narthex flowers, and then spoke in a sorrowful voice.
 
-From the doorway, Gaius appeared carrying an empty bowl. He paused when he saw them speaking and quickly withdrew. Drusiana watched him go with tenderness.
+"Perhaps you may think... what insolent talk is this from someone born an orphan and raised in another's house, and that too, the son of an apostate..."
 
-"He has no one?" Andronicus asked.
+"No!"
 
-"No one living."
+Drusiana removed the hands that had been covering her face and cried out firmly.
 
-"And you care for all of them?"
+"I only, only..."
 
-"Not alone. The brothers help. Bishop Onesimus, Polycarp, Prochorus, Callimachus—many come when they can."
+"Drusiana, from the time we were children we grew up together all along, and I was always beside you. I know what your sleeping habits are like, what flower you like, and what music you like... I know all of it. Because I was always beside you, you may not have felt it, but you... you, perhaps, if I were not there..."
 
-At the last name, something in her voice changed, so slightly that another man might have missed it.
+"Callimachus, I know it all. I know all of how empty it would feel if Callimachus were not there. But, but..."
 
-Andronicus did not.
+"Drusiana, do you think that even after leaving Ephesus you can walk the way of Christ? Do you think that, unable even to breathe deeply in the inner room of a quaestor's mansion, you can keep your burning faith?"
 
-"Callimachus."
+While Drusiana did not know what to do, Andronicus, who had only been listening beside them, opened his mouth again.
 
-She turned back to him.
+"Callimachus... it seems you are trying to connect the question of marriage with religious questions... but from what I see, it is difficult to acknowledge that as proper logic."
 
-"You remember him?"
+Callimachus also turned toward him as if refusing to yield.
 
-"A little. He was often at your father's house."
+"Then do you think that people with different faiths can have a peaceful married life?"
 
-"We grew up together."
+"Now that I have listened to you... it seems that much is not enough to turn a woman's heart. A person's heart flows calmly like a river. You are now trying to block that river with a few stones."
 
-"So I have heard."
+He cast a look of pity toward Callimachus and looked at Drusiana.
 
-The garden grew more fragile around them.
+"Now, Miss Drusiana! No longer torment this pitiful young man. Reveal your true heart."
 
-Drusiana saw the change in his face.
+Callimachus also spread out both arms before Drusiana and said,
 
-"He is my brother in faith," she said.
+"Drusiana, you will remember the words of the Apostle John. What is visible belongs to this world, and he told us not to love the things of this world. He taught that if one loves the things of this world, the love of God cannot be in him. Drusiana, he said that when we go before the rulers of the world, the Holy Spirit will prepare the words we are to answer. Answer as the Holy Spirit tells you."
 
-"Only that?"
+But Andronicus's request was different.
 
-The question escaped before Andronicus could restrain it.
+"Drusiana, I do not want to hear any other answer. I only want to hear the answer of Drusiana herself, the woman I love. To me, now, an answer from God or the like is not important. I want only to hear the answer of you, Drusiana.
 
-Drusiana's expression did not harden, but it grew still.
+For what I need now is not God, nor the world, but only you, Drusiana."
 
-"He is dear to me," she said. "And he is wounded. That is not the same thing as what you fear."
+Drusiana now stood between the two young men. One young man was Marius Andronicus, the rising star of the great Roman Empire, a young quaestor, and a descendant of a noble family, with a dignified bearing. The other young man was Callimachus, who had a heart more gentle than anyone's and a clean appearance like a sculpture, but had been an orphan from birth and was the son of Onesiphorus the apostate.
 
-Andronicus lowered his eyes.
+A heavy silence flowed. Even the petals of the narthex seemed to tremble faintly, as if this moment pained them. And before long, the little children inside the school who had finished their meal poked out their heads, wondering what was happening, rolling their bright eyes.
 
-"Forgive me."
+At last Drusiana wiped her tears with the back of her hand and turned toward Callimachus. "Callimachus..."
 
-"There is nothing to forgive if we are honest quickly enough."
+"?"
 
-Before he could answer, footsteps sounded beyond the garden arch.
+It was a moment in which the breath of heaven and earth, the roof, and all living things seemed to freeze at once.
 
-Hesthenes entered first, alert as ever, and behind him came another young man. He was finely built, with a face almost too composed to be peaceful. His eyes moved first to Drusiana, then to Andronicus, and in that movement everything became clear.
+Drusiana looked up at the night sky as though she meant to drink in every light of all things, and at last began to pour out words tinged with a blue light like a dagger.
 
-Drusiana drew a quiet breath.
+"Callimachus, I have always liked Callimachus and relied on him. Callimachus is someone loved by everyone, and someone who can be so. And what is most important is the fact that you are in God's great love. Callimachus, you are someone who loves all people and receives love from all people...."
 
-"Callimachus."
+Because Drusiana was speaking with all the strength of her soul, her breath grew short, so that she had to rest for a moment. Barely steadying her breath, she continued again.
 
-He stopped beneath the archway.
+"Callimachus, to say it again... you are someone who can live a beautiful life as much as you wish even without me. You will always be full of shining hope and an indomitable ideal. But..."
 
-For one heartbeat no one spoke.
+"This man... though the people of the world say that he has everything, in truth he has nothing. This man has no God to comfort him, and no neighbor to love him. If I send this man away as he is... I think he would become too pitiful. If I do not hold this man for him, I feel that he will flutter and drift away into the darkness of despair, where only a fearful wind blows."
 
-Then he bowed with perfect courtesy.
+"Oh, wise Drusiana! How is it that you see so deeply into a person's heart? Your words are exactly right. Though many people envy me, and though many people call me one who possesses, I am truly a poor man. I have come to you holding this poor heart. Even if I marry you, the only thing I can give you is this poor heart. You have spoken rightly. If you cast me away, I will become the most pitiful man in the world. As you said, I will become a pitiful creature falling without end into a darkness whose depth I do not know."
 
-"Quaestor Marius Andronicus. Ephesus welcomes you home."
+"Lies! Quaestor Andronicus! You are now reciting the licentious love poems of decadent Roman nobles!"
 
-The words were correct. The voice was not.
+"Callimachus, Miss Drusiana's heart is already flowing like a river. If you torment this frail lady's heart any further, as a man who loves this lady, I do not think I can merely stand by and watch any longer."
 
-Andronicus returned the bow.
+Callimachus's face was growing as pale as lead in the darkness.
 
-"Callimachus. It has been many years."
+"Drusiana, what are you saying now? To say that I, an orphan and a pauper, am richer than Andronicus, quaestor of the Roman Empire!"
 
-"Rome changes men," Callimachus said.
+"Callimachus, do you not know well how vain the status and riches of this world are? This man is indeed the poorest man in the world now."
 
-"So does Ephesus."
+Andronicus spoke to Drusiana in a voice that truly trembled with emotion.
 
-Drusiana looked from one to the other, and pain crossed her face before she hid it.
+Callimachus still had not given up, and stood there with his whole body shaking.
 
-Hesthenes remained near the arch, saying nothing. His eyes, however, missed nothing.
+"Drusiana... think once more. This moment now is the most important and fearful moment between you and me."
 
-Callimachus turned to Drusiana.
+At last Drusiana looked at Callimachus with a firm expression.
 
-"The children have finished. Polycarp is looking for you."
+"Callimachus, I have decided to accept this man, Lord Marius Andronicus's proposal. Somehow, I seem to be someone needed by this man. And Callimachus, even if I marry this man, I believe God will protect you... and that God will prepare for you a bride far better and more beautiful than I."
 
-"I will come soon."
+"Ah...."
 
-He nodded, but did not leave.
+Callimachus was staggering as if he would collapse to the ground at any moment. He covered his pale face with both hands, and then again spread those hands toward heaven.
 
-Andronicus understood then that this young man had not come to deliver a message. He had come because something in the world had shifted and he had felt it.
+"Ah... where is Jehovah, the God of Elijah...?"
 
-"I should speak with your father," Andronicus said.
+The lament that escaped Callimachus's mouth was the very lament of Elisha, who cried out by the Jordan River. Elisha, the disciple of the great prophet Elijah, who had denounced the corruption of Israel's dynasty and given warning while showing many miracles, lamented by the Jordan River, worried for the future of his homeland, after his teacher had ascended to heaven in a whirlwind. He struck the waters of the Jordan with the mantle Elijah had left behind and cried,
 
-Drusiana looked at him.
+"Where is Jehovah, the God of Elijah?"
 
-"Yes."
+And suddenly a miracle occurred before his eyes. The miracle of the Jordan River's waters splitting in two occurred.
 
-The word was simple, but not final.
+But despite Callimachus's lament, Elisha's miracle did not occur. From Drusiana's small mouth no voice now came out.
 
-He bowed to her, then to Callimachus. As he turned to leave, he heard children laughing again in the hall. The sound followed him through the garden like something both tender and unreachable.
+"God of Elijah... one man has gained a beautiful wife because he does not believe in you... and this Callimachus has lost his bride because of you...."
 
-Outside the school, the city was still celebrating.
+At last he turned away weakly and began to stagger into the darkness.
 
-Torches burned along the streets. Men shouted in honor of Artemis. Incense drifted over marble and flowers and blood.
+"God of David... where are you? You permitted David eight wives... yet you did not permit this Callimachus the one Drusiana...."
 
-Andronicus mounted his horse in silence.
+Now the sound of his crying out was scattering into the empty air.
 
-Hesthenes waited until they had gone some distance before speaking.
+"God of David... you are not the God of Callimachus....
 
-"Dominus."
+Now, as Drusiana said, I shall flutter and fall down into the darkness of despair.
 
-"Not now."
+He lifted both hands to heaven and began to laugh like a madman.
 
-The servant obeyed.
+"God of David... do not seek me... I now go down into the darkness.... Since I will go down into the grave, what profit is there in my blood...? How can dust and dirt recognize the Lord...?"
 
-Behind them, within the lamplit school, Drusiana remained standing between two worlds that could not yet admit they were enemies.
+Callimachus's form and voice were truly fluttering away and disappearing into the darkness. Drusiana, who had been standing blankly and gazing at the darkness into which he disappeared, at last could bear it no longer and covered her face with both hands, bursting into tears. Because she seemed as though she would soon collapse, Andronicus quickly held her upper body to his chest. Leaning on Andronicus's breast, Drusiana wept endlessly like that.
 
-And in the garden, Callimachus stood alone beneath the arch, listening to the festival roar beyond the wall, his hands clenched so tightly that his nails cut into his palms.
+Besides Drusiana, in one corner of the school of Tyrannus there were muffled sobs. They were the pale-looking orphans who had been watching their breathless contest in the darkness.
+
+All the stars that had been shining thickly in the dark night sky were flowing downward like meteors. Whenever the children's tears flowed, the stars fell weakly in that way.
+
+In the courtyard of the school of Tyrannus, where everything flowed like water, the first to gather his senses was Andronicus. He quietly held and shook the slender shoulders of Drusiana, who was still sobbing.
+
+"Drusiana, tonight has become a night I shall never forget for as long as I live. You are the only person who understood me, and today I have gained that person's love. This feeling of tonight will govern my whole life, and I will become your faithful and capable husband. Drusiana, your tears speak of that beautiful heart of yours. But now, for the sake of our beautiful future, show me your smile."
+
+Andronicus put strength into the hands with which he held the woman. From Drusiana's hands, which held him in return, the language of trembling trust was being conveyed.
+
+"May this night be eternal for us... may Drusiana's beauty be endless together with this night...."
+
+Andronicus's lips were touching the woman's forehead. The woman's sweat-wet forehead was giving off a mysterious fragrance. Her fallen hair was tickling his lips. Andronicus raised his right hand and stroked the woman's soft cheek... then, putting quiet strength into his fingertips, lifted that cheek. Hot lips, smeared with tears, came near. Both of them were trembling. The beating of their hearts was so overwhelming that it seemed the ground beneath their feet might collapse at any moment. From one of them, he did not know whom, a moan was bursting out. And they held each other fiercely and became one as they were. It was indeed an adventure, and a challenge. As Andronicus had said, it was a flood and a tidal wave that no one could stop. No one could separate them. Heaven and earth, and darkness and wind, all merely watched their resolve while holding their breath.
+
+From somewhere, beautiful music was seeping in. What wind had driven that sound there? A beautiful melody began to seep between the hearts of the lovers who did not know how to part, and Andronicus was faintly opening his eyes like Adam awakening from a dream.
+
+"Drusiana...."
+
+"... Yes."
+
+"... I love you. You are my everything... It was worth running toward you from far away. I now realize that the reason I was born into the world was precisely in order to meet you...."
+
+Drusiana gently parted her lips and buried her face in Andronicus's broad chest. When she opened her mouth, her burning breath was seeping deep into Andronicus's breast.
+
+"Marius... I will entrust the life of one weak woman into your hands... From now on I am your maidservant...."
+
+That was precisely the image of woman that Andronicus had desired. His calculation in rejecting Rome's fierce and overbearing women and seeking out the old woman of Ephesus had indeed been right.
+
+"Drusiana... now let us go in and meet your parents. I want to hold the wedding as soon as possible."
+
+"Marius, are you in such haste?"
+
+"I am. I want to bind you beside me even one day sooner. As I said earlier, for the six years after I left Ephesus, I was thinking only of you all along."
+
+"How long... will you be in Ephesus?"
+
+"I do not think it will be very long. I have come after receiving a special imperial command."
+
+"Is it an important mission?"
+
+"It is."
+
+"Is it a secret?"
+
+Andronicus realized what the meaning of the words he had been babbling was, was startled, and closed his mouth. The content of the special command was to arrest and escort John, the leader of the Christiani and the last remaining disciple of Jesus. Yet the bride he was now holding, Drusiana, was a Christianus, and the condition of her marriage was that the freedom of faith be acknowledged, that at the wedding she must receive and eat the bread and wine of the Eucharisteo, and that she must receive a blessing from the officiant. And the person who would perform that ceremony and pray for blessing upon them was none other than the Apostle John, whom Andronicus was now trying to arrest.
+
+And now Drusiana was asking what the content of the special command he had received from the emperor was. Cold sweat was flowing on Andronicus's forehead. Even the young quaestor Andronicus, who had been careful, precise, and quick, was after all an ordinary man whose brain stopped turning because of one woman.
+
+"... If it is a secret, you need not tell me."
+
+"No, I will tell you now."
+
+In any case, once he married Drusiana, he would have to spend a few days of newly married life with her and then board a ship bound for Rome, and if so, the Apostle John, being taken away under arrest, would have to board that ship with him. In the end, Andronicus had no choice but to tell Drusiana the truth exactly as it was.
+
+"Drusiana."
+
+He lightly set her apart from himself, though she was still held to his breast, and breathed hard. "Please listen carefully to what I am about to say."
+
+Drusiana, wearing a puzzled expression, was bringing her hands to her breast. "Drusiana, as you know, I am an official of the Roman Empire."
+
+"?"
+
+"Therefore, the mission I am carrying out may at times not be the same as my own will."
+
+"Marius, I... I told you I would be fine not knowing."
+
+"No. This is something you also need to know."
+
+"I do...?"
+
+"That is so. Because this matter is related to you as well."
+
+Andronicus broke off for another while, and then continued again.
+
+"As you know, Emperor Domitian of Rome has once again issued a sweeping order for the arrest of the Christiani. To such an extent that even His Excellency Clemens, a consul of Rome, has already been arrested and imprisoned on suspicion of being a Christianus...."
+
+"What has happened to the believers in Christ in Rome?"
+
+"A sweeping wind of arrests is blowing. A terrible persecution like the one under Emperor Nero has begun, and the Christiani are being torn apart in the arena by the swords of gladiators and the teeth of wild beasts."
+
+"Oh, Lord...."
+
+Drusiana had her two hands gathered at her breast and her eyes tightly closed.
+
+"The special command the emperor gave me in coming to Ephesus this time was to arrest and escort the Apostle John, the last disciple of Jesus, who is said still to be alive in Ephesus."
+
+"Oh, Marius!"
+
+Drusiana's face was turning white with horror.
+
+"As I said earlier, I am an official. Personally, I do not think there is any reason at all that the Apostle John should be arrested. But this is the emperor's command. Drusiana, you must understand my position."
+
+"Marius, you... said that Rome tolerates any religion."
+
+"That is what I cannot understand. Although the Christiani have committed no unlawful act against the Roman Empire, successive Roman emperors have persecuted them. I do not understand this either. I do not hate you Christiani in the least. As to what reason Rome's hatred of you comes from, I merely do not know that. At any rate, Drusiana...."
+
+He took Drusiana's trembling hand and said,
+
+"I will receive John's prayer, as you wish. But when the wedding is over, I must arrest him."
+
+"Do you... even now know what you are saying?"
+
+Andronicus himself could no longer understand what was becoming of anything. Something had become thoroughly complicated. Drusiana again leaned into his breast and began to weep.
+
+"Why did you not... why did you not tell me such a thing sooner!"
