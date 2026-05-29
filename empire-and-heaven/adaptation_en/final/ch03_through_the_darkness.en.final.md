@@ -1,278 +1,553 @@
-# Empire and Heaven (Volume I)
-## Chapter 3 — Through the Darkness
+---
+title: "Through the Darkness"
+volume: "I"
+chapter: 3
+source: "empire-and-heaven/chapters/상_03_어둠을_헤치고.md"
+translation_type: "faithful literary translation"
+---
 
-Even after the red sun had vanished into the Mediterranean, the great theater still held a residue of light.
+# Empire and Heaven (I)
 
-It clung to the upper stones in a faint gray wash while darkness gathered in the lower tiers. Along the avenue that ran toward the harbor, lamps were being lit one by one. Far below, the Festival of Artemis had not ended. Fireworks burst above the harbor district, and the city answered with shouts, music, and the rolling pulse of drums.
+## Chapter 3. Through the Darkness
 
-Halfway up the theater steps, three young men stood watching the road.
+Even after the red sun had been drawn into the Mediterranean, the steps of the great theater still held a faint light. On both sides of the avenue stretching straight toward the harbor, the lamps of the shops began to be lit one by one, and from far off toward the harbor, the sound of bursting fireworks was still loud.
 
-They had been there long enough for the dust of dusk to settle around their sandals.
+On the middle tier of the great theater steps, where grains of darkness were beginning to settle like sediment, three young men had been standing for some time, looking down below. Among them, the relatively tall young man looked at the young man with a face clean as sculpture and opened his mouth.
 
-The tallest of them turned toward the young man beside him, whose face remained still and finely cut in the fading light.
+"Callimachus... I wish there were some way I could help you."
 
-"Callimachus," he said softly, "I wish there were some way I could help you."
+The young man called Callimachus looked at the seductive colors of the five-colored lanterns beginning to light toward the harbor and smiled coldly.
 
-Callimachus looked toward the harbor, where colored festival lamps trembled in the distance.
+"Do not worry too much, Polycarp... I am truly sorry to show such weakness. Since childhood, you have always been the one who comforted me, and I have always been the one comforted..."
 
-A cold smile touched his mouth.
+"But Callimachus... we live by hope. I believe the word that when we are weak, we are strongest."
 
-"Do not trouble yourself over me, Polycarp. I am ashamed to show you such weakness again. Since childhood, you have always been the one to comfort me, and I have always been the one needing comfort."
+For another while, a heavy silence passed. Suddenly the young man with curly hair and broad shoulders pointed downward with his finger.
 
-Polycarp did not answer at once.
+"It seems he is coming up this way."
 
-The sounds of the festival rose between them.
+At that, the three young men again turned their gaze toward the avenue. The finger of the curly-haired young man pointed to the figure of an old man, fish in hand, coming straight up toward the theater. Polycarp nodded.
 
-Then he said, "We live by hope. I still believe we are strongest when we are weak."
+"It seems our observation was correct."
 
-Callimachus lowered his eyes.
+Unlike when he had been loitering, the old man's steps were fairly quick. In an instant he passed the square of Ephesus, crossed the marble road, and entered the theater. Polycarp again spoke in a low voice.
 
-The third young man, broad-shouldered with curled hair and a watchful expression, suddenly pointed toward the avenue below.
+"Now... if he has come this far, it would be better for us to go down rather than make the elder walk any more difficult steps."
 
-"There," Prochorus said. "I think he is coming this way."
+They began descending the steps together. In the dim darkness, the distance between the three young men and the old man gradually narrowed. The old man passed the three-story stage building composed of dressing rooms and prop rooms and entered the semicircular square, the open space where the chorus and orchestra entered. At last, in that semicircular yard, the old man encountered the young men who had descended all the steps.
 
-All three looked down.
+In the middle of the yard, they looked at one another for a moment. Presently Polycarp stepped one pace forward and opened his mouth.
 
-An old man was crossing the open space below the theater. In one hand he carried a fish tied with string. Over one shoulder hung a worn bundle. Earlier in the evening he had wandered through the streets as if uncertain where to go. Now his steps were direct.
+"Excuse me... what is it that you are holding in your hand?"
 
-Polycarp nodded slowly.
-
-"Then we were right to watch him."
-
-The old man crossed the Ephesian square, passed over the pale marble road, and entered the theater.
-
-Polycarp spoke in a lowered voice.
-
-"We should not make him climb farther. Let us go down."
-
-The three descended together.
-
-In the thickening dusk, the distance between them and the old traveler narrowed until they stood in the open semicircular space before the stage building, where musicians and choruses gathered before performances.
-
-For a moment no one spoke.
-
-The old man studied them. His clothing was plain, his body lean from travel, his face lined by years of sun and road. Yet his eyes remained clear.
-
-Polycarp stepped forward.
-
-"Forgive us, elder. The fish you carry—what does it mean?"
-
-The old man's gaze rested on him.
+The old man gazed at Polycarp's face, pale in the darkness, and answered in a low voice.
 
 "Ichthys."
 
-The Greek word hung quietly in the dark.
+Ichthys was the Greek word meaning fish. Polycarp asked again.
 
-Polycarp asked, "And do you know the confession hidden in the Ichthys?"
+"Do you know ichthys?"
 
-The old man answered without haste.
+Then the old man unfolded the letters of ichthys into a brief phrase.
 
-"Iesous Christos Theou Huios Soter."
+"Jesus Christ, Theos Huios, Soter."
 
-Jesus Christ, Son of God, Savior.
+It meant that Jesus Christ is the Son of God and Savior, and it was a sign by which Christians confirmed one another's identity. No sooner had his words fallen than Polycarp rushed forward and seized the old man's rough, withered hands.
 
-The secret confession by which believers recognized one another.
+"It is good to meet you. How have you come to Ephesus? I am Polycarp, who lives here. And this is my friend Callimachus..."
 
-The moment the words were spoken, Polycarp took the old man's hands in both of his.
+He pointed also to the curly-haired young man standing beside him and continued.
 
-"Welcome, brother. I am Polycarp. This is my friend Callimachus, and this is Prochorus. We serve among the believers here in Ephesus."
+"This man is called Prochorus. We are all workers of the church in Ephesus."
 
-The old man looked from one young face to another.
+"It has been so long since I left Ephesus that I have never heard the names of the young people. Were all your fathers Christians?"
 
-"I have been away from this city a long time. I do not know the names of the young anymore. Were your fathers believers?"
+"The grandfather of this Prochorus was Prochorus, one of the first seven deacons of the church in Jerusalem. He was overseer of the church in Nicomedia and passed away not long ago. And..."
 
-Polycarp nodded toward Prochorus.
+Polycarp took Callimachus's shoulder with one hand.
 
-"His grandfather was Prochorus, one of the first seven servants of the church in Jerusalem. Later he shepherded the church in Nicomedia. He has recently gone to the Lord."
+"Callimachus's father was originally a very zealous Christian."
 
-Then Polycarp placed a careful hand on Callimachus's shoulder.
+"Does that mean... he is not so now?"
 
-"And Callimachus's father was once a devoted follower of Christ."
+"Well..."
 
-The old man's eyes sharpened slightly.
+Before Polycarp could answer, the old man asked Callimachus,
 
-"Once?"
-
-The silence that followed was brief, but heavy.
-
-Before Polycarp could answer, the old man turned directly to Callimachus.
-
-"What was your father's name?"
-
-Callimachus lifted his head.
+"Your father's honored name...?"
 
 "Onesiphorus."
 
-At the name, the old traveler changed.
+The old man nodded and asked again.
 
-Not outwardly by much. Only the stillness in him deepened, and the strength seemed to leave his face for a moment.
+"I see. Where is Onesiphorus now?"
 
-"Onesiphorus," he whispered.
+"They say he died of illness before I was born."
 
-Then, more softly, "A faithful man. Where is he now?"
+"Onesiphorus... he was an excellent man..."
 
-"He died before I was born."
+When Callimachus lowered his head and sank into thought, Polycarp quickly changed the subject.
 
-The old man bowed his head.
+"But... whom have you come to Ephesus to meet, elder?"
 
-"Yes," he said. "Onesiphorus was faithful indeed."
+"I am a man who has returned to Ephesus after thirty years. Can you guide me to a place where I may meet believing brothers? Who is now in charge of the church in Ephesus?"
 
-Callimachus looked away, and Polycarp quickly changed the subject.
+"Yes, Bishop Onesimus."
 
-"Elder, whom do you seek in Ephesus?"
+"Ah, Onesimus..."
 
-The traveler raised his eyes.
+The old man's voice, repeating Onesimus's name, trembled again with emotion.
 
-"I have returned after thirty years. Can you lead me to the brothers? Who now shepherds the church here?"
+"Onesimus... is he perhaps the one who came from the church in Colossae?"
 
-"Bishop Onesimus," Polycarp said.
+"You know him?"
 
-The old man's breath caught.
+"Know him? Of course... He was still alive..."
 
-"Onesimus."
+The old man lifted his hand and pressed the corners of his eyes with his fingertips. Only after remaining so for a moment did he seem to regain composure and continue.
 
-His voice trembled over the name.
+"If Onesimus became bishop... what became of Bishop Timothy?"
 
-"The same Onesimus who came from Colossae?"
+"You did not know. That was before we were even born... According to what we have heard, he returned to Ephesus the year after Teacher Paul was martyred in Rome. After returning, he insisted in that very square of Ephesus that the worship of Artemis was unjust, and died after being beaten with clubs by an excited crowd."
 
-"Yes," Polycarp said, surprised. "You know him?"
+"...I see."
 
-"I knew him." The old man pressed his fingers briefly to his eyes. "He still lives?"
+Tears again flashed in the old man's eyes.
 
-"He returned to Ephesus after Paul's martyrdom," Polycarp said. "He became bishop after Timothy."
+"Did you know Bishop Timothy well? Forgive me, but what is your name, elder?"
 
-At Timothy's name, the old man closed his eyes.
+"Look at me... I still have not told you my name. I knew Timothy, and Onesiphorus as well. My name is Tychicus..."
 
-The festival shouted below them. The theater above remained dark and empty, as though all its stones had begun listening.
+At that, the three young men stared in astonishment at the old man's face floating in the darkness.
 
-Prochorus spoke carefully.
+"Why are you so surprised?"
 
-"Forgive us, elder. But who are you?"
+"Teacher, are you the very... elder Tychicus who appears in Paul's letter?"
 
-The traveler lowered his hand.
+"...?"
 
-"I knew Timothy. I knew Onesiphorus. I knew Onesimus when he still walked under the shadow of his former chains. And long ago, I traveled beside Paul himself."
+Polycarp spoke again.
 
-The three young men froze.
+"Teacher, together with Bishop Onesimus you delivered Paul's letter written in the prison at Rome to the church in Colossae, did you not? Even now the saints in Ephesus keep a copy of that precious letter and often read it. 'Tychicus will tell you all my circumstances. This beloved brother is a faithful helper who works with me for the Lord...'"
 
-Polycarp's voice dropped almost to a whisper.
+"Ah... was it written so?"
 
-"Are you Tychicus?"
+"And the account concerning you is also written in Paul's last letter to Bishop Timothy. There it says that he was sending Tychicus to Ephesus. So the saints in Ephesus are said to have waited eagerly for Teacher Tychicus to come."
 
-The old man gave a small, weary nod.
+Old Tychicus gave a thin sigh.
 
-"Yes."
+"...Then it has taken thirty years to arrive."
 
-For a moment none of them moved.
+This time Prochorus opened his mouth.
 
-The name had lived among the believers of Ephesus like a figure from sacred memory. They had heard it in the letters read aloud at gatherings: the beloved brother, faithful servant, fellow bondservant in the Lord; the one entrusted with news from Paul's imprisonment; the messenger who had carried words across dangerous roads so that scattered churches might not lose heart.
+"Teacher, when did you first meet Paul?"
 
-Polycarp's eyes shone.
+"The first time he came to Ephesus was the eleventh year after Emperor Claudius ascended the throne... He had already finished the mission in Macedonia, passed through Athens and Corinth, and entered Ephesus. At that time Paul came with Silas and Luke, who had followed him from Antioch, Timothy whom he had met in Lystra, and the leatherworker Aquila and his wife Priscilla, whom he had met in Corinth. As soon as he arrived, he preached the gospel in the Jewish synagogue, and there I first met him..."
 
-"You carried Paul's letters with Onesimus. We still keep copies. We still read them among the brothers."
+"Though you were a Hellene, you went to the Jewish synagogue?"
 
-Tychicus looked down.
+"I did. For some reason, I was troubled by the Messiah for whom they were waiting..."
 
-"So many years have passed."
+"They say Paul did not stay long when he first came here?"
 
-"The church waited for you," Polycarp said.
+"He did not. Many people asked many questions, but he said he had left the church in Antioch too long; leaving only Aquila and his wife behind, he hurriedly departed Ephesus..."
 
-A faint smile crossed the old man's face.
+By now the day had grown completely dark, and the four standing in the middle of the yard could hardly distinguish one another's faces. But this time the young man named Polycarp persistently asked about Paul.
 
-"Then I have arrived thirty years late."
+"Then... the great disturbance in this theater occurred when Paul came the second time?"
 
-Prochorus stepped closer, unable to restrain himself.
+"That is right... Ah, before he came, an evangelist from Alexandria named Apollos had arrived first. It seems he had heard the gospel of Jesus from saints who had gone that way to escape Agrippa's persecution, and he was going about preaching in many places. In Ephesus he met Aquila and his wife, studied much more about the Lord, and left for Achaia. It was just after that that Paul arrived."
 
-"When did you first meet Paul?"
+"Then... Paul's return was when he had left Antioch for the third time."
 
-Tychicus turned slowly and looked over the theater.
+"Yes... The first was mainly the mission in Galatia, the second in Macedonia and Hellas... and on the third journey he came to Ephesus. At that time Paul stayed here almost three years, devoting his whole heart to caring for the church. By day he mostly lectured on the word in the school of Tyrannus, and in the evening he comforted and laid hands upon the sick..."
 
-The darkened tiers rose around them. Below, the lamps of Ephesus trembled through smoke. The festival drums continued, but from where they stood the noise seemed far away, belonging to another world.
+"They say many miracles occurred then?"
 
-"Here," Tychicus said.
+"Of course. I saw them clearly with my own eyes. Tremendous things happened: paralytics rose, madmen became whole, and the mute came to speak. Even if someone merely took Paul's handkerchief and laid it on a sick person, the illness was healed."
 
-The young men waited.
+All three young men listened with astonished expressions to the story of old Tychicus, who had witnessed those things directly. As though again immersed in the emotion of that time, Tychicus continued in an excited voice.
 
-"Not in this very place at first, but in this city. Paul came to Ephesus after Macedonia, Athens, and Corinth. With him were companions from many roads—Silas, Luke, Timothy, and the tentmakers Aquila and Priscilla. He began, as he often did, in the synagogue. That was where I first heard him."
+"As now, there were many magicians in Ephesus then too. Those magicians witnessed the miracles appearing through Paul and were so overwhelmed that they burned all their books of magic. But the problem was... that the authority of Artemis, guardian goddess of this city, began to fall. The citizens set Artemis aside and became enthusiastic for Jesus Christ, and the silversmiths who made their living by making and selling shrines and souvenirs of Artemis lost their livelihood."
 
-Callimachus looked at him sharply.
+"So the riot of Demetrius occurred."
 
-"You were Greek, yet you entered the synagogue?"
+"It did. He too was a silversmith, but among the merchants of Ephesus he was a figure of considerable influence. He incited all the craftsmen and shop owners of the city of Ephesus and stirred up a disturbance. He said that a man named Paul, who had come from elsewhere, was spreading a strange cult not only in Ephesus but throughout all Asia, and that the merchants of Ephesus who lived by Artemis would all be ruined. He incited the citizens together with the merchants, made them gather in this great theater, and caused an uproar. Many brothers, including Gaius and Aristarchus, were seized and beaten, and the citizens shouted in excitement for more than two hours."
 
-Tychicus smiled faintly.
+Tychicus dug at his ear with a finger as if even now he heard the shouting of that time. It had truly been a terrifying chaos.
 
-"Truth has a way of drawing men where custom would not invite them."
+Great Artemis!
 
-He spoke then of the early days: of the hall of Tyrannus, where Paul taught daily; of arguments that began in heat and ended in prayer; of the sick brought through crowded streets; of fear falling on those who had used the name of Jesus as a charm; of scrolls of magic gathered and burned until the value of the fire itself became a testimony against the old darkness.
+Great Artemis of the Ephesians!
 
-He did not speak loudly.
+It was a scream and roar for the sake of their livelihood. Blood stood in all their eyes.
 
-He did not need to.
+At that moment Prochorus raised his hand and pointed toward the harbor.
 
-The past seemed to come up around them through the stones.
+"Artemis is coming."
 
-At last he looked toward the great empty seats.
+The four turned their bodies at once and looked toward Harbor Avenue. Masses of countless five-colored lanterns were pouring in through the harbor monument. It seemed the festival at the harbor had all ended, and Artemis's procession had begun again.
 
-"And then came the riot."
+Polycarp asked again.
 
-Far below, the worshipers of Artemis had begun another song.
+"Was Paul safe then?"
 
-The old man listened to it for a moment.
+"Do not ask. Paul insisted he would go into the theater at once. As one who had persecuted Christians in the beginning and then turned, his temper was no ordinary thing. So with no other choice, because there were believers among the governor's subordinates, we asked them to arrest Paul. It was for his safety. And so Paul was confined in that watchtower of Astyages until the riot ended. The one who devised that brilliant idea was..."
 
-"The craftsmen were afraid. They shouted for their goddess, but they were also shouting for their trade. Men often defend their gods most fiercely when their livelihood trembles."
+Old Tychicus took Callimachus by the sleeve and said,
 
-Polycarp looked across the theater.
+"your father, Onesiphorus..."
 
-"Was it here?"
+In the end, the riot was calmed by the persuasion of the city clerk, and Paul came to leave Ephesus.
 
-"Here," Tychicus said. "The mob filled these seats. For hours they cried, 'Great is Artemis of the Ephesians.' Their voices shook the stone. Paul wanted to enter and speak to them."
+Polycarp looked at old Tychicus again.
 
-"He wanted to come into the theater?" Prochorus asked.
+"At that time... when Paul left, you went with him, did you not?"
 
-Tychicus gave a quiet laugh.
+Old Tychicus looked at Polycarp in surprise.
 
-"Of course he did. We had to restrain him. He believed truth should be spoken even into madness."
+"No... how did you know that?"
 
-His smile faded.
+"The record of Luke the physician, who traveled with Paul, has come into our hands."
 
-"It was Onesiphorus who helped arrange his escape. Your father, Callimachus. He risked his life that night, though few now remember it."
+"Luke's record..."
 
-Callimachus did not speak.
+"Yes. He left a scroll recording the acts of the apostles, and although we do not know his own course afterward, a copy of it flowed into Ephesus by a strange route. There it is written that when Paul left Ephesus, Sopater, Aristarchus, Secundus, Gaius, Timothy, Trophimus, and Teacher Tychicus accompanied him."
 
-The light from the harbor touched the edges of his face and left the rest in shadow.
+"That is right. He wrote it very accurately. Seeing that, it seems you have gathered many records."
 
-For a while, the four men stood with the city below them.
+"Yes. Because we are later generations who did not meet Jesus Christ directly, we are continually gathering the records and letters of the apostles. Not only that, we possess copies of the Gospel written by Teacher Mark and the Gospel written by the apostle Matthew for the new believers of the church in Antioch."
 
-Artemis moved again through the avenue, lifted above the crowd beneath flowers and torchlight. Fireworks opened briefly over the harbor and vanished in sparks. The drums rolled. The people cried out as though the goddess could hear longing if only it were loud enough.
+Hearing Polycarp's story, old Tychicus dropped the fish he had been holding and lifted both hands high.
 
-Above them, the theater remained almost empty.
+"Oh, merciful God. Even amid harsh tribulation you have prepared proud descendants! You have not made vain the blood of Paul, founder of this church in Ephesus! Thank you. I give thanks in the name of Jesus Christ!"
 
-Only four figures stood in its darkness: three young servants of a hidden church, and one old witness carrying names that the Empire had never considered important.
+Tychicus stood in that posture for a long time. Polycarp and Prochorus too gathered their hands over their chests.
 
-Polycarp finally spoke.
+The clamor of the crowd was growing nearer and nearer. The goddess Artemis was passing through Harbor Avenue. Young men carrying torches were leading the way.
 
-"Come with us. We will take you to Bishop Onesimus."
+With her twenty-four breasts exposed and twenty-four bull testicles hanging around her neck, the goddess Artemis marched proudly along the avenue while fireworks burst wildly and music overflowed. Artemis's seductive face burned even more fiercely in the torchlight.
 
-Tychicus bent and picked up the fish he had set down near his feet.
+At the square of Ephesus before the theater, the procession of people turned toward the great stadium, in the direction opposite the road by which they had entered earlier.
 
-"Then lead the way, brothers."
+Old Tychicus picked up the fish he had set down and turned to Polycarp.
 
-They left the theater together.
+"...Where must I go to meet Brother Onesimus?"
 
-As they descended through the marble streets, Ephesus continued to celebrate. Music filled the lower city. Torches burned before temples and houses. Laughter rose from taverns. Incense drifted in the warm night air.
+"We will guide you. As you know, if one passes the Magnesian Gate and goes south for about two hours, there is the grove of Ortygia on the southern slope of Mount Koressos. In that grove there is a small hut where Mary, the mother of Jesus, lived."
 
-To any Roman passing by, nothing of consequence had occurred.
+"What... Mary came to this Ephesus?"
 
-Only an old traveler had met three young men in the darkness.
+"So it is said. Before any of us were born, but you know of the great apostasy that occurred in Ephesus, do you not? When the great fire broke out in Rome and Paul was imprisoned, a great persecution also arose here in Ephesus. It is said that at that time the saints of Ephesus, unlike the saints of the church in Rome, could not stand boldly in martyrdom, and all apostatized."
 
-Only a few names had been remembered.
+Then Callimachus, who until now had hardly opened his mouth, stepped forward.
 
-Only a hidden road had opened again between the days of Paul and the days now coming upon Ephesus.
+"We have heard that my father, Onesiphorus, and men such as Phygelus and Hermogenes took the lead and argued for apostasy."
 
-But beneath the noise of the city, another kingdom moved quietly.
+Tychicus nodded and began to move his steps.
 
-Not with banners.
+"It was just then that I arrived in Ephesus. At that time I was on the way back from visiting the church in Colossae with Brother Onesimus, carrying Paul's letter written in prison. When I came, Bishop Timothy was traveling in Macedonia, and all the saints had apostatized, so the church was scattered to the winds. I ran straight to Rome and reported that fact to Paul. When he received that report, how grievously he mourned... Especially the apostasy of your father Onesiphorus he could not believe at all, and he wept. As he wrote in the letter to Bishop Timothy, when everyone had abandoned him, your father had come all the way to distant Rome to visit him. Not only that, he always encouraged Paul rather, with a voice full of hope..."
 
-Not with soldiers.
+"That very point..."
 
-Through memory, witness, endurance, and the hands of those who still recognized one another in the dark.
+Polycarp placed his hand on Callimachus's shoulder and spoke to old Tychicus.
+
+"That very point is the question we have. We have read Paul's letter to Bishop Timothy again and again... 'May the Lord grant mercy to the house of Onesiphorus. More than once he refreshed me, and he was not ashamed of my chains. When he came to Rome, he searched hard for me and found me. You know better than anyone how much service he rendered when I was in Ephesus. May the Lord grant him mercy on the day the Lord comes again...'"
+
+Even Paul, a man of upright character who did not hesitate to speak harsh words to apostates, seemed unable to do so only to Onesiphorus. Callimachus asked again.
+
+"At that time, when you arrived in Ephesus, did you meet my father?"
+
+"Of course. I met your father in great agitation, thinking, how could this be? But..."
+
+"..."
+
+"I was so shocked I could hardly close my mouth. Your father shouted at me to get out at once. He said that if I did not withdraw, he would immediately report me and have me arrested. In the end, I was pushed out and driven away by the servants of your house. I could not bring myself to report these things to Paul. Even now, remembering it, it was too enormous a shock..."
+
+By now Artemis's procession had nearly passed before the great stadium and was curving toward the Koressos Gate. The four began slowly walking in the opposite direction from that procession, toward Crete Street. Polycarp opened his mouth again.
+
+"After that, Callimachus's father left Ephesus. But about seven years after that event, a woman, heavy with child, came to the school of Tyrannus. At that time the woman was in labor, near delivery, and in the house of Tyrannus she gave birth to a son. She died after bearing the child because of childbed fever, and it is said she left only the words that the child was the seed of Onesiphorus and that he had already died. And so our friend Callimachus came to be raised in the house of Tyrannus."
+
+Old Tychicus took Callimachus's hand as if proud of him.
+
+"Truly the love of God is great... By this, the wounded heart of Onesiphorus too must have been healed. You said Callimachus, did you not? Please become a fine worker like Paul and wash away your father's disgrace."
+
+They passed the northern corridor of the square of Ephesus and entered Crete Street, whose shops were bright as midday with lamp light. Old Tychicus looked back at Polycarp and said,
+
+"A moment ago we were speaking of Mary..."
+
+Polycarp continued as if remembering.
+
+"Ah, the story went aside because of the apostasy. It is said that in that very year when the apostasy in Ephesus occurred, and Bishop Timothy, who had returned from Rome, was beaten to death as a martyr, Mary came here, leading a body nearly ninety years old."
+
+"No... do you mean she came here alone?"
+
+"No. The apostle John brought her. And Mary Magdalene, who is said to have first met the risen Jesus, came with them as well."
+
+"The apostle John?"
+
+"Yes. As you know, the apostle John was the only apostle present at the cross where Jesus suffered, and he was the one who directly received from Jesus the request to care for his mother. Therefore, when Paul left Antioch for his third missionary journey, John brought Mary and came to Antioch. Perhaps Paul had a premonition that he would not return to Antioch again; he asked the Jerusalem church to send workers, and the Jerusalem church dispatched the apostle John in order to keep Mary safe. Since that was the year before Emperor Nero ascended the throne, Mary and the apostle John guarded the church in Antioch for eleven years until they came to Ephesus."
+
+"But... why did they come to Ephesus, where persecution had arisen and danger had increased?"
+
+"Mary wished it so. It is said that when she heard the church of Ephesus had been scattered to the winds, she wept and declared that this time it was her turn to be martyred. In the end, unable to withstand her pleading, the apostle John left Antioch carrying the aged body on his back."
+
+Tychicus thought he could understand that heart. Among the one hundred twenty who received the Holy Spirit in the upper room of Mark's house, Mary was not only the eldest; she was the mother who had borne the flesh of Jesus. Yet the persecution that began from Jerusalem had no end: Deacon Stephen was martyred, James the son of Zebedee was killed, and Matthias was martyred in Ethiopia. While she was in Antioch, James, her second son, who guarded the Jerusalem church, was also killed; at last Peter and Paul, who had gone to Rome, died; and now she had received the sad news that even Timothy, bishop of Ephesus, had died. How could she remain still? Nor was that all. How many nameless martyrs had there been in Rome and Ephesus, and in Jerusalem? Tychicus imagined Mary's grieving heart as she set out for Ephesus with her ninety-year-old body, and once more wiped away tears.
+
+"She was truly a remarkable woman... So what happened after she arrived in Ephesus?"
+
+"As if she had truly resolved to be martyred, it is said that as soon as she got off the ship, she began witnessing to Christ from the quay. Amid people mocking her as a madwoman and throwing stones, she walked firmly along Harbor Avenue, crying out, 'Citizens of Ephesus, repent and receive the gospel.' Though the apostle John and Mary Magdalene advanced while blocking the flying stones with their own bodies, in the end, near the front of the theater, they were seized by the crowd."
+
+"...The citizens of Ephesus committed another act they could not undo."
+
+"Yes. Mary and the two others, with their clothes torn and their bodies beaten, were dragged like dogs along this very road."
+
+They were walking along the brothel district of Crete Street, bright with lights. Prostitutes dressed in dazzling primary colors and with all sorts of hairstyles beckoned and tempted passersby. Through this street of prostitutes Mary had been dragged like a dog.
+
+At that moment the party stopped for a while because someone was riding toward them from ahead. The rider who appeared on the broad road, still visible by the lights of the shops and brothels, was splendidly dressed as a Roman noble. Old Tychicus carefully examined the young man's figure.
+
+"Do you know him?"
+
+The old man nodded.
+
+"Marius Andronicus... Quaestor of Rome."
+
+In an instant, the young man turned his horse's head to the right and disappeared toward the direction of the school of Tyrannus.
+
+"How do you know Quaestor Andronicus?"
+
+"We came on the same ship. He was a young man who seemed very intelligent. He looked like a talent worthy of preserving his family's honor."
+
+Then Callimachus, who had been listening to the fading sound of hoofbeats, suddenly spoke to Polycarp.
+
+"Polycarp, please take the teacher ahead. I think I must go home after all."
+
+"Callimachus... somehow I feel I must be with you tonight."
+
+"Thank you, Polycarp. But I cannot leave everything unfinished like this. I am grateful for your concern, but my heart is at peace now."
+
+"Then go, Callimachus. You know that tomorrow is the Lord's Day. Since Teacher Tychicus has returned home after thirty years, I expect tomorrow dawn's worship to be all the more full of grace."
+
+"I understand. I will see everyone tomorrow morning. Teacher Tychicus, forgive me for not escorting you to the end. Sometime I would like to hear more about my father."
+
+Having bowed so, Callimachus quickened his steps and was drawn into the alley where Andronicus had disappeared. Looking at his back as it receded, old Tychicus said,
+
+"He is a very courteous and gentle young man."
+
+"Yes. Because he grew up an orphan, he has the flaw of being somewhat passive, but all of us like Callimachus very much. Especially the apostle John cherishes Callimachus as though he were his own son."
+
+"No... then do you mean the apostle John is still alive?"
+
+"Ah, I had not yet told you. Teacher, when you arrive tonight at the hut in Ortygia, you will be able to meet the apostle."
+
+"Oh, Lord..."
+
+Now reduced to three, the party again began to move their steps. And at that time, about thirty paces behind them, a man appeared, continuing to watch their backs and move after them.
+
+The man followed them while keeping enough distance that, despite the lights, the hem of night could still cover him. The people walking ahead seemed to be exchanging many stories; now and then they stopped, looked around, and walked at a slow pace.
+
+Old Tychicus said to Polycarp and Prochorus,
+
+"Now that all the apostles have been martyred, I think it is a great blessing that the apostle John, the only one left alive, is with you. By all means you must hear much from him and leave it in writing."
+
+"Yes. Perhaps the apostles believed literally the word of Jesus that all these things would be fulfilled before this generation passed, and neglected writing. But now... at this point when all the apostles except John have been martyred, I think we must arrange Jesus's words concerning the end from a new perspective and leave a faithful record."
+
+"Yes... With what has the apostle John taught you?"
+
+"That seems to be a truly difficult matter. In a word... he is always silent. Even when we worship, he always has us read Teacher Mark's or the apostle Matthew's Gospel, or read Paul's letters, and he leaves the exposition to Bishop Onesimus. If we beg him to say even one word, he says only one thing."
+
+"What does he say?"
+
+"Agapate allelous..."
+
+"Love one another... It is the word Jesus taught at the Last Supper."
+
+"Yes. We are always full of questions and ask him, but the apostle merely nods."
+
+"How old is John this year? Perhaps..."
+
+"We have not dared ask, but he seems to be nearly ninety. Yet his clarity has not faded at all, and even memories from long ago are clear. He can even recite Teacher Mark's Gospel without stopping."
+
+According to the testimony of the apostles, John had been the youngest and brightest of the twelve disciples. Jesus always loved John and kept him near, to the extent that when he raised the daughter of Jairus, ruler of the synagogue, when the mysterious transfiguration occurred on Mount Tabor, and when he offered his final prayer in the garden of Gethsemane, he took with him only Peter, John, and John's brother James.
+
+John, though young, was also a man of fiery character, and Jesus had once given him the nickname Boanerges. Boanerges meant son of thunder in Aramaic. When Tychicus had gone to Jerusalem with Paul, he had heard such stories. John, angered because the Samaritans treated Jesus coldly, had asked that fire come down from heaven and destroy them, and instead had been rebuked.
+
+Yet the figure of John that the young men of Ephesus now conveyed was entirely different from that time.
+
+The three were now passing before the enormous statue of Emperor Domitianus. To the right stretched the colonnade of the Tetragonos market, and to the left stood the governor's residence, the Prytaneion, city hall of Ephesus, and the odeon.
+
+"Polycarp... continue the story of Mary that was interrupted earlier."
+
+"Mary, the apostle John, and Mary Magdalene, those three, were beaten by the crowd and spat upon as they were dragged as far as here. The crowd intended to condemn and execute the three before the Prytaneion. As you know, inside the entrance of the Prytaneion stood another statue of Artemis, and the sacred fire of Artemis was burning."
+
+As if imagining the scene of that time, old Tychicus looked toward the entrance of the Prytaneion. Indeed, between the marble columns of the entrance, the sacred fire was burning with a red light. It was the flame symbolizing the prosperity of Ephesus. And in that light, another statue of Artemis stood looking out over the avenue.
+
+It was said that a strange historical event had unfolded precisely there. Mary, who had conceived and delivered the flesh of Jesus, whom all Christians believed to be the Son of God and God himself, was thrown down before Artemis, goddess of Ephesus, and suffered every humiliation and mockery.
+
+"So... what happened before that city hall of Ephesus?"
+
+"A miracle happened."
+
+"...A miracle?"
+
+"When the three of them were hurled down before the statue of Artemis, Mary Magdalene, who could endure it no longer, is said to have cried out in a loud voice. She shouted, 'Lord, save your mother!' But... while many in the crowd heard that cry and were bewildered, not knowing what it meant, another group of citizens of Ephesus had, before they knew it, begun to surround the three of them layer upon layer. With their own bodies, they cut off the space between the three and the angry crowd. In that way Mary and her companions were rescued. Those who heard Mary Magdalene's cry and began surrounding them... they were the very people who had apostatized under the leadership of Onesiphorus, Phygelus, and Hermogenes and had given up believing in Jesus. They wept, repented of their sins, and with Mary and her two companions at the center, rebuilt the church."
+
+"Truly Mary's faith showed us a great example..."
+
+Not only the resurrection of the church in Ephesus, but the even greater miracle was Mary's faith itself. No matter that Jesus had been conceived by the Holy Spirit and that he was God himself, how could the mother who had borne him with her own womb serve that son as God?
+
+Yet Mary's faith had already reached that point. Her faith was that if God created heaven and earth and governed history, he could surely use the womb of one lowly woman according to his own will. Thus Mary, while mother of Jesus, became his apostle and his beloved disciple.
+
+"So... how long did Mary stay in the grove of Ortygia...?"
+
+When they had passed city hall and the odeon and begun walking again, old Tychicus asked.
+
+"After rescuing the three, the repentant saints of Ephesus protected them and marched to the grove of Ortygia south of Mount Koressos. As you know, when one leaves the Magnesian Gate, the northern road leads toward the temple of Artemis in the marshland below Mount Ayasoluk, and if one goes south, the grove of Ortygia appears. The saints of Ephesus headed south, though no one had led them."
+
+"Is not the grove of Ortygia precisely the place where the goddess Artemis is said to have been born?"
+
+"Yes. Mary, the mother of Jesus, came to the city of Artemis, preached the gospel of Christ amid suffering and insult, was beaten and mocked before the statue of Artemis in the Prytaneion, and then spent the rest of her life in the grove of Ortygia, said to be the birthplace of Artemis."
+
+"A strange connection..."
+
+"The saints who arrived at the grove of Ortygia built a small house for Mary. Because Mary was already very old and because of the violence she had suffered in Ephesus, she did not live much longer afterward. On the Feast of Trumpets after that event... from the first day of the seventh month by the Jewish calendar, that is, the month of Tishri, she pitched a booth in the yard and entered into prayer, and from the tenth day she began fasting. It continued until the fifteenth, that is, the Feast of Booths..."
+
+There were three traditional festivals of the Jews. The first was Passover, on the fourteenth day of Nisan, the first month, commemorating the day the people of Israel escaped from four hundred thirty years of slavery and left Egypt. The second was the Feast of Weeks, but it did not have a fixed date. The Feast of Weeks was a thanksgiving sacrifice offered on the fiftieth day after counting forty-nine days from the day after the Sabbath following the offering of firstfruits, when the Israelites, after escaping Egypt and wandering forty years in the wilderness, at last entered the promised land of Canaan, farmed, and offered the first fruits. It was a sacrifice of reconciliation, pledging renewed harmony with Jehovah God, from whom they had become distant during that time.
+
+And the third was the Feast of Booths. This was an observance kept in commemoration of the Israelites dwelling in tents in the wilderness for forty years. All the people set up tents outside their houses, in courtyards, outside the city, or upon rooftops, and commemorated that time. On the first day of the seventh month they blew trumpets to announce it; from the tenth day they began fasting; and on the fifteenth day at last they held a seven-day outdoor great feast.
+
+All three of these festivals were deeply connected with the life of Jesus. In the year he turned thirty-three, he resolved to go up to Jerusalem at the Feast of Booths; that year, after finishing the Passover supper, he was arrested and executed. And Christians counted the day after the Sabbath, when he was said to have risen, as the Lord's Day, that is, the day of offering the first fruits; fifty days from that day, the descent of the Holy Spirit occurred upon the one hundred twenty who were praying in Mark's house.
+
+Among these, however, the Feast of Booths had gradually changed for the Jews into a festival of hope. During the forty years they passed through the wilderness, not only the people but their God Jehovah came down from on high, dwelt in a tent with them, and walked with them. God commanded Moses, the leader guiding the people, to build a tent in which he would come down and dwell, and promised that he would come down, meet with him, and go with him personally.
+
+Later, after leading the people as far as the land of Moab before the Jordan River, Moses confessed as follows.
+
+"He went before you, sought out a place for you to pitch your tents, and by fire at night and by cloud by day showed you the way you should go."
+
+But after the Israelites entered the promised land of Canaan, ate their fill, built beautiful houses, increased their livestock, and became rich in possessions, they forgot the God who had walked with them. Only after their country split in two and at last they lost it did they regret and weep that they had not kept the Feast of Booths.
+
+Thus when the seventh month came, they pitched tents in courtyards and fields, kept the Feast of Booths, and eagerly awaited the descent again of the God who had walked with them. That was the very hope of waiting for the Messiah.
+
+Therefore it was natural that Jesus began the climax of his life from the Feast of Booths. His march toward the hill of Golgotha began from the hope of the Feast of Booths. Thus he reenacted the history of Israel in his own body.
+
+At the Passover supper, he gave his final charge to his disciples, was arrested, and, becoming the sacrificial offering, proclaimed the liberation of human beings. Three days after being buried he rose and became the firstfruits of those to be saved; fifty days after that, the one hundred twenty disciples received the baptism of the Holy Spirit. Now what remained for them was another Feast of Booths. That is, waiting for the return of the ascended Jesus, as he had promised.
+
+Therefore Mary's faith, beginning prayer and fasting for the Feast of Booths, was already a conviction of Christ's return.
+
+"On the first day of Tishri, Mary asked the apostle John to pitch a booth in the yard, and when she moved there she began to pray. Thus from the tenth day she began fasting, and when the fifteenth day, the Feast of Booths, came..."
+
+As they passed beside the odeon and then in front of the eastern gymnasium, the shadow following them hid for a while between buildings and waited until enough distance was maintained.
+
+"Many citizens of Ephesus and worshipers of Artemis who had gathered from various places were flocking to the grove of Ortygia to celebrate the goddess's birth. At that time, it is said they were startled to see a beautiful light rising from the small booth pitched before Mary's house. And not only light; the whole forest was filled with a mysterious fragrance."
+
+When there was again enough distance, the shadow following them stepped back onto the road and continued the pursuit.
+
+"...All the people who had come to make pilgrimage to Artemis's birthplace knelt down on the spot and trembled in that mysterious fragrance. That was Mary's Feast of Booths..."
+
+"Then... is Mary Magdalene, who came to Ephesus with Mary and the apostle John, also here now?"
+
+"No. As soon as her service of attending Mary ended, she left Ephesus. According to rumors, she passed through Rome and went to Lugdunum in Gaul, where Lazarus of Bethany's family was staying."
+
+"Do you mean Lazarus of Bethany's family was still alive?"
+
+"They are said to have been alive until that time, but thirty years have passed since then, so they are not of an age to be living now."
+
+...
+
+Tychicus was moving his heavy steps with his head lowered. Polycarp and Prochorus quietly followed him, and far behind them, a man was still following their trail.
+
+Tychicus spoke again in a subdued voice.
+
+"In my thinking... from now on, a new door of faith must be opened. While the apostle John, the last witness of the Lord's time, is still alive, you must arrange these tremendous events with your own hands and preserve them."
+
+"We too have resolved so. But because John keeps such deep silence... that is where our difficulty lies. We often ask about points where the records of Mark and Matthew differ. For example, there is the record that before Jesus went up to Jerusalem, he opened the eyes of blind beggars at Jericho, but Mark records only one blind beggar, Bartimaeus, while Matthew records two; or, Mark records that when Jesus entered Jerusalem, he rode a colt tied outside a house in the village of Bethphage, while Matthew seems to record that there were already two animals, a donkey and a colt, and that Jesus rode the colt. Yet whenever we ask about such things, John merely says that both are right and tells us to solve them by our faith."
+
+"Those things do not seem like very important problems..."
+
+"That is true. But there is another very serious problem."
+
+"A serious problem...?"
+
+"Yes. It is the fact that both men leave out of their records the event of Lazarus of Bethany, which everyone has heard of by rumor."
+
+"Is that true?"
+
+"Yes. As you know, the event in which Jesus raised the dead Lazarus to life seems closely related to Jesus's suffering. Because the people of Jerusalem came to follow Jesus because of that event, the Sanhedrin council likely began to conspire in earnest to kill Jesus; and if one examines it, the reason so many people cried Hosanna when Jesus entered Jerusalem, spread their outer garments and branches on the road, and welcomed him in frenzy can be said to have been the Lazarus event. Yet both men did not record this event, and even when we ask John about it, he consistently remains silent."
+
+"As far as I know, the Lazarus event seems to have been between the Feast of Booths and Passover..."
+
+"Yes. Jesus went up to Jerusalem at the Feast of Booths, withdrew for some reason to the region of Perea, then returned on the way to Bethany and raised Lazarus. After that, he went about places such as Samaria, then passed through Jericho and arrived again in Bethany six days before Passover. There he received a welcoming feast at the house of Simon the leper, and then, riding a colt, entered Jerusalem."
+
+"But how are Mark's and Matthew's records arranged?"
+
+"They record only up to the event in which Jesus, going up to Jerusalem at the Feast of Booths, passed through Samaria and was rejected. What happened in Jerusalem during the Feast of Booths, his later withdrawal again toward Perea, and the Lazarus event are all entirely missing."
+
+"Then... how is the next story connected?"
+
+"It is before Jesus enters Jericho, but a rather unexpected story appears."
+
+"...?"
+
+"The disciples asked Jesus who was greatest in the kingdom of heaven. Then Jesus called a child, set him in their midst, and said that unless they became like a child, they would never enter the kingdom of heaven. Then... he said that anyone who caused even one of these little ones to stumble would be better off having a millstone hung around his neck and being drowned in the sea. And then Jesus's words continue into words of forgiveness. He tells them to forgive even seventy times seven times..."
+
+"That is indeed strange. Mark met Jesus on the day of Passover, so perhaps that is one thing, but Matthew was a disciple who followed Jesus throughout..."
+
+"But Teacher, just last year a small hope arose for us."
+
+"...?"
+
+They had already come close to the Magnesian Gate. Polycarp lifted his hand and guided old Tychicus by pointing to the right. A little away from the road was a small tomb.
+
+"Whose tomb is this?"
+
+"It is the tomb of Luke the physician."
+
+"Luke's?"
+
+"In truth, Luke's body is not there; only an empty coffin is inside."
+
+"Only an empty coffin...?"
+
+"Around this time last year, a strange young man appeared on the streets of Ephesus carrying a coffin. On that coffin was drawn a fish, that is, ichthys. When we spoke to him about the fish, the young man asked the meaning of ichthys, and then immediately set down the coffin and disappeared. When we brought the coffin home and opened the lid, to our amazement, inside the empty coffin was a copy of the Acts of the Apostles written by Teacher Luke."
+
+"Well..."
+
+"It was truly an emotional appearance. Teacher Luke's record was so detailed that it was accurate as if seeing a painting. As I told you, even the names of those accompanying Paul when he left Ephesus were recorded accurately, seven names including Teacher Tychicus."
+
+"An astonishing thing. I heard that from the time Luke met Paul in Antioch, he accompanied him without missing a single day. He took no little trouble caring for Paul's health and that of all the party, and yet he left behind such a tremendous record as well."
+
+"That is not all. The one hope we discovered is..."
+
+"?"
+
+"Precisely the preface of that Acts of the Apostles. The Acts was in the form of a letter sent to someone, and that person's name was Theophilus..."
+
+"Theophilus...?"
+
+"Is it perhaps a name you know?"
+
+"I do not think I have heard it..."
+
+"In any case, our hope rests on that name."
+
+"On that name?"
+
+"Yes. The preface of Acts begins like this: 'O Theophilus, in my former writing I recorded from the things Jesus did and taught until the day he commanded his chosen apostles by the Holy Spirit and ascended...'"
+
+"Then does that not mean that even before the Acts of the Apostles, Luke had written something sent to this man named Theophilus?"
+
+"Exactly... Moreover, it says that it recorded all the things he did and taught up to his ascension."
+
+"Then... if Luke truly wrote a Gospel, and if only it could be found, unexpected records might appear. For Mark was a man who followed the apostle Peter all along, and Matthew too was a disciple from Capernaum, so one can see both as of the same line of thought; but Luke was a Hellene from Antioch, and he accompanied Paul, who was not a direct disciple of Jesus, so it seems he could have arranged the materials about Jesus quite objectively..."
+
+"Yes. That is exactly what we expect."
+
+"Does John know this as well?"
+
+"Of course. When we said that if Luke's Gospel appeared there would be much to hope for, he instead told us to pray that it might appear."
+
+...
+
+"In any case, that is why we buried the empty coffin here and named it Luke's tomb. Since he too must now be old enough to have died, it would not be too discourteous..."
+
+They went back out to the road, passed the Magnesian Gate, and crossed beyond the city. At the point where they met the road coming down from the direction of the temple of Artemis, they turned right and hastened their steps southward.
